@@ -10,8 +10,8 @@ input=\
 	../input/table6.tex \
 	../input/table7.tex \
 	../input/table8.tex \
-	../input/figure4_occupations.pdf \
-	../input/figure5_naics2.pdf \
+	../input/figure1_occupations.pdf \
+	../input/figure2_naics2.pdf \
 	$(appendices)
 
 appendices=\
@@ -40,7 +40,7 @@ $(folders):
 	if [ -e ../../shares/output/$(@F) ] ; then ln -s ../../shares/output/$(@F) ../input/ ; else exit 1; fi
 ../input/table2.tex:
 	if [ -e ../../skillintensities/output/$(@F) ] ; then ln -s ../../skillintensities/output/$(@F) ../input/ ; else exit 1; fi
-../input/table3_clean.tex ../input/table5_clean.tex ../input/figure4_occupations.pdf ../input/figure5_naics2.pdf:
+../input/table3_clean.tex ../input/table5_clean.tex ../input/figure1_occupations.pdf ../input/figure2_naics2.pdf:
 	if [ -e ../../populationelasticities/output/$(@F) ] ; then ln -s ../../populationelasticities/output/$(@F) ../input/ ; else exit 1; fi
 ../input/tableE1_withshares.tex ../input/tableE2_occupations_clean.tex ../input/tableE3_naics2_clean.tex ../input/tableE5_appendix.tex ../input/tableE6_appendix.tex:
 	if [ -e ../../populationelasticities/output/$(@F) ] ; then ln -s ../../populationelasticities/output/$(@F) ../input/ ; else exit 1; fi

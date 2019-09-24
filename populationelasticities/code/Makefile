@@ -22,9 +22,9 @@ output=\
 	../output/table5.tex \
 	../output/tableE1.tex \
 	../output/tableE2_occupations.tex \
-	../output/figure4_occupations.pdf \
+	../output/figure1_occupations.pdf \
 	../output/tableE3_naics2.tex \
-	../output/figure5_naics2.pdf \
+	../output/figure2_naics2.pdf \
 	../output/tableE5_appendix.tex \
 	../output/tableE6_appendix.tex \
 	../output/figure1_edu.pdf \
