@@ -1,0 +1,81 @@
+NEW ENGLAND COUNTY METROPOLITAN AREAS AND COMPONENTS, 1999, 
+WITH FIPS CODES
+
+(Metropolitan areas defined by Office of Management and Budget, 6/30/99)
+
+The file layout is located at the end of the data file.
+
+Source:             U.S. Census Bureau
+Internet Release date:   July 1999
+Revised date:       July 1999 
+
+NNNN SS CCC    NECMA title and Components
+
+0733           Bangor, ME NECMA    
+0733 23 019      Penobscot County    
+
+0743           Barnstable-Yarmouth, MA NECMA 
+0743 25 001      Barnstable County   
+          
+1123           Boston-Worcester-Lawrence-Lowell-Brockton, MA-NH NECMA 
+1123 25 005      Bristol County, MA  
+1123 25 009      Essex County, MA    
+1123 25 017      Middlesex County, MA     
+1123 25 021      Norfolk County, MA  
+1123 25 023      Plymouth County, MA 
+1123 25 025      Suffolk County, MA  
+1123 25 027      Worcester County, MA     
+1123 33 011      Hillsborough County, NH  
+1123 33 015      Rockingham County, NH    
+1123 33 017      Strafford County, NH     
+
+1303           Burlington, VT NECMA     
+1303 50 007      Chittenden County   
+1303 50 011      Franklin County     
+1303 50 013      Grand Isle County   
+
+3283           Hartford, CT NECMA  
+3283 09 003      Hartford County     
+3283 09 007      Middlesex County    
+3283 09 013      Tolland County 
+
+4243           Lewiston-Auburn, ME NECMA     
+4243 23 001      Androscoggin County 
+
+5483           New Haven-Bridgeport-Stamford-Waterbury-Danbury, CT NECMA
+5483 09 001      Fairfield County    
+5483 09 009      New Haven County    
+
+5523           New London-Norwich, CT NECMA  
+5523 09 011      New London County   
+
+6323           Pittsfield, MA NECMA     
+6323 25 003      Berkshire County    
+
+6403           Portland, ME NECMA  
+6403 23 005      Cumberland County   
+
+6483           Providence-Warwick-Pawtucket, RI NECMA  
+6483 44 001      Bristol County 
+6483 44 003      Kent County    
+6483 44 007      Providence County   
+6483 44 009      Washington County   
+
+8003           Springfield, MA NECMA    
+8003 25 013      Hampden County 
+8003 25 015      Hampshire County    
+
+File Layout:
+
+Character Length    Field
+
+1-4       4    FIPS NECMA code (6/30/99 definition)
+5         1    Blank
+6-7       2    FIPS state code (blank at NECMA level)
+8         1    Blank     
+9-11      3    FIPS county code (blank at NECMA level)
+12-15     3    Blank
+16-73     62   Area title and county name (indented 2)        
+
+NECMA = New England County Metropolitan Area
+       

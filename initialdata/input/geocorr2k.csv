@@ -1,0 +1,2240 @@
+"state","puma5","msacmsa","pmsa","stab","msaname","pmsaname","pop2k","afact"
+"01","00100","2650"," ","AL","Florence, AL"," ",142950,1 
+"01","00200","3440"," ","AL","Huntsville, AL"," ",157952,1 
+"01","00300","3440"," ","AL","Huntsville, AL"," ",184424,1 
+"01","00400","9999"," ","AL","Non-metro"," ",118378,1 
+"01","00500","9999"," ","AL","Non-metro"," ",184557,1 
+"01","00600","2030"," ","AL","Decatur, AL"," ",145867,1 
+"01","00700","9999"," ","AL","Non-metro"," ",132583,1 
+"01","00800","1000"," ","AL","Birmingham, AL"," ",115766,0.621 
+"01","00800","9999"," ","AL","Non-metro"," ",70713,0.379 
+"01","00901","1000"," ","AL","Birmingham, AL"," ",103629,1 
+"01","00902","1000"," ","AL","Birmingham, AL"," ",123233,1 
+"01","00903","1000"," ","AL","Birmingham, AL"," ",154204,1 
+"01","00904","1000"," ","AL","Birmingham, AL"," ",177089,1 
+"01","00905","1000"," ","AL","Birmingham, AL"," ",103892,1 
+"01","01000","2880"," ","AL","Gadsden, AL"," ",103459,1 
+"01","01100","9999"," ","AL","Non-metro"," ",155066,1 
+"01","01200","0450"," ","AL","Anniston, AL"," ",112249,1 
+"01","01300","1000"," ","AL","Birmingham, AL"," ",143293,1 
+"01","01400","8600"," ","AL","Tuscaloosa, AL"," ",164875,1 
+"01","01500","9999"," ","AL","Non-metro"," ",128750,1 
+"01","01600","9999"," ","AL","Non-metro"," ",129853,1 
+"01","01700","0580"," ","AL","Auburn-Opelika, AL"," ",115092,1 
+"01","01800","1800"," ","AL","Columbus, GA-AL"," ",49756,0.254 
+"01","01800","9999"," ","AL","Non-metro"," ",145836,0.746 
+"01","01900","5240"," ","AL","Montgomery, AL"," ",201568,1 
+"01","02000","5240"," ","AL","Montgomery, AL"," ",131487,1 
+"01","02100","9999"," ","AL","Non-metro"," ",165395,1 
+"01","02200","5160"," ","AL","Mobile, AL"," ",198915,1 
+"01","02300","5160"," ","AL","Mobile, AL"," ",200928,1 
+"01","02400","5160"," ","AL","Mobile, AL"," ",140415,1 
+"01","02500","9999"," ","AL","Non-metro"," ",107010,1 
+"01","02600","2180"," ","AL","Dothan, AL"," ",137916,1 
+"02","00101","0380"," ","AK","Anchorage, AK"," ",118678,1 
+"02","00102","0380"," ","AK","Anchorage, AK"," ",141605,1 
+"02","00200","9999"," ","AK","Non-metro"," ",109013,1 
+"02","00300","9999"," ","AK","Non-metro"," ",157110,1 
+"02","00400","9999"," ","AK","Non-metro"," ",100526,1 
+"04","00101","6200"," ","AZ","Phoenix-Mesa, AZ"," ",102745,1 
+"04","00102","6200"," ","AZ","Phoenix-Mesa, AZ"," ",109336,1 
+"04","00103","6200"," ","AZ","Phoenix-Mesa, AZ"," ",174453,1 
+"04","00104","6200"," ","AZ","Phoenix-Mesa, AZ"," ",188935,1 
+"04","00105","6200"," ","AZ","Phoenix-Mesa, AZ"," ",152743,1 
+"04","00106","6200"," ","AZ","Phoenix-Mesa, AZ"," ",100324,1 
+"04","00107","6200"," ","AZ","Phoenix-Mesa, AZ"," ",146150,1 
+"04","00108","6200"," ","AZ","Phoenix-Mesa, AZ"," ",116247,1 
+"04","00109","6200"," ","AZ","Phoenix-Mesa, AZ"," ",120787,1 
+"04","00110","6200"," ","AZ","Phoenix-Mesa, AZ"," ",103499,1 
+"04","00111","6200"," ","AZ","Phoenix-Mesa, AZ"," ",169069,1 
+"04","00112","6200"," ","AZ","Phoenix-Mesa, AZ"," ",170752,1 
+"04","00113","6200"," ","AZ","Phoenix-Mesa, AZ"," ",103984,1 
+"04","00114","6200"," ","AZ","Phoenix-Mesa, AZ"," ",183523,1 
+"04","00115","6200"," ","AZ","Phoenix-Mesa, AZ"," ",152860,1 
+"04","00116","6200"," ","AZ","Phoenix-Mesa, AZ"," ",163902,1 
+"04","00117","6200"," ","AZ","Phoenix-Mesa, AZ"," ",143876,1 
+"04","00118","6200"," ","AZ","Phoenix-Mesa, AZ"," ",148303,1 
+"04","00119","6200"," ","AZ","Phoenix-Mesa, AZ"," ",104352,1 
+"04","00120","6200"," ","AZ","Phoenix-Mesa, AZ"," ",189676,1 
+"04","00121","6200"," ","AZ","Phoenix-Mesa, AZ"," ",126516,1 
+"04","00122","6200"," ","AZ","Phoenix-Mesa, AZ"," ",100117,1 
+"04","00201","8520"," ","AZ","Tucson, AZ"," ",130097,1 
+"04","00202","8520"," ","AZ","Tucson, AZ"," ",107604,1 
+"04","00203","8520"," ","AZ","Tucson, AZ"," ",101880,1 
+"04","00204","8520"," ","AZ","Tucson, AZ"," ",136739,1 
+"04","00205","8520"," ","AZ","Tucson, AZ"," ",100961,1 
+"04","00206","8520"," ","AZ","Tucson, AZ"," ",107307,1 
+"04","00207","8520"," ","AZ","Tucson, AZ"," ",159158,1 
+"04","00300","9999"," ","AZ","Non-metro"," ",166893,1 
+"04","00400","2620"," ","AZ","Flagstaff, AZ-UT"," ",116320,1 
+"04","00500","9999"," ","AZ","Non-metro"," ",167517,1 
+"04","00600","4120"," ","AZ","Las Vegas, NV-AZ"," ",155032,0.887 
+"04","00600","9999"," ","AZ","Non-metro"," ",19715,0.113 
+"04","00700","9360"," ","AZ","Yuma, AZ"," ",160026,1 
+"04","00800","6200"," ","AZ","Phoenix-Mesa, AZ"," ",179727,0.778 
+"04","00800","9999"," ","AZ","Non-metro"," ",51335,0.222 
+"04","00900","9999"," ","AZ","Non-metro"," ",198172,1 
+"05","00100","2580"," ","AR","Fayetteville-Springdale-Rogers, AR"," ",153406,1 
+"05","00200","2580"," ","AR","Fayetteville-Springdale-Rogers, AR"," ",157715,1 
+"05","00300","9999"," ","AR","Non-metro"," ",144943,1 
+"05","00400","9999"," ","AR","Non-metro"," ",127980,1 
+"05","00500","3700"," ","AR","Jonesboro, AR"," ",82148,0.475 
+"05","00500","9999"," ","AR","Non-metro"," ",90909,0.525 
+"05","00600","4920"," ","AR","Memphis, TN-AR-MS"," ",50866,0.495 
+"05","00600","9999"," ","AR","Non-metro"," ",51979,0.505 
+"05","00700","9999"," ","AR","Non-metro"," ",113494,1 
+"05","00800","9999"," ","AR","Non-metro"," ",114117,1 
+"05","00900","4400"," ","AR","Little Rock-North Little Rock, AR"," ",183133,1 
+"05","01000","4400"," ","AR","Little Rock-North Little Rock, AR"," ",178341,1 
+"05","01100","4400"," ","AR","Little Rock-North Little Rock, AR"," ",222371,1 
+"05","01200","9999"," ","AR","Non-metro"," ",128934,1 
+"05","01300","2720"," ","AR","Fort Smith, AR-OK"," ",168318,1 
+"05","01400","9999"," ","AR","Non-metro"," ",101539,1 
+"05","01500","9999"," ","AR","Non-metro"," ",151212,1 
+"05","01600","6240"," ","AR","Pine Bluff, AR"," ",84278,0.694 
+"05","01600","9999"," ","AR","Non-metro"," ",37213,0.306 
+"05","01700","9999"," ","AR","Non-metro"," ",108053,1 
+"05","01800","9999"," ","AR","Non-metro"," ",114976,1 
+"05","01900","8360"," ","AR","Texarkana, TX-Texarkana, AR"," ",40443,0.376 
+"05","01900","9999"," ","AR","Non-metro"," ",67032,0.624 
+"06","00100","9999"," ","CA","Non-metro"," ",115085,1 
+"06","00200","9999"," ","CA","Non-metro"," ",126518,1 
+"06","00300","6690"," ","CA","Redding, CA"," ",163256,1 
+"06","00400","9999"," ","CA","Non-metro"," ",144574,1 
+"06","00500","9999"," ","CA","Non-metro"," ",114318,1 
+"06","00600","1620"," ","CA","Chico-Paradise, CA"," ",203171,1 
+"06","00700","9999"," ","CA","Non-metro"," ",116412,1 
+"06","00800","9340"," ","CA","Yuba City, CA"," ",139149,1 
+"06","00900","6922","9270","CA","Sacramento-Yolo, CA (C)","Yolo, CA (P)",168660,1 
+"06","01000","7362","8720","CA","San Francisco-Oakland-San Jose, CA (C)","Vallejo-Fairfield-Napa, CA (P)",124279,1 
+"06","01101","7362","7500","CA","San Francisco-Oakland-San Jose, CA (C)","Santa Rosa, CA (P)",177541,1 
+"06","01102","7362","7500","CA","San Francisco-Oakland-San Jose, CA (C)","Santa Rosa, CA (P)",115251,1 
+"06","01103","7362","7500","CA","San Francisco-Oakland-San Jose, CA (C)","Santa Rosa, CA (P)",165822,1 
+"06","01201","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",100916,1 
+"06","01202","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",146373,1 
+"06","01301","7362","8720","CA","San Francisco-Oakland-San Jose, CA (C)","Vallejo-Fairfield-Napa, CA (P)",146849,1 
+"06","01302","7362","8720","CA","San Francisco-Oakland-San Jose, CA (C)","Vallejo-Fairfield-Napa, CA (P)",126603,1 
+"06","01303","7362","8720","CA","San Francisco-Oakland-San Jose, CA (C)","Vallejo-Fairfield-Napa, CA (P)",121090,1 
+"06","01401","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",127590,1 
+"06","01402","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",108826,1 
+"06","01403","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",170602,1 
+"06","01501","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",133925,1 
+"06","01502","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",106738,1 
+"06","01503","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",142880,1 
+"06","01504","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",169571,1 
+"06","01505","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",162285,1 
+"06","01506","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",101082,1 
+"06","01601","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",135702,1 
+"06","01602","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",112697,1 
+"06","01700","6922","6920","CA","Sacramento-Yolo, CA (C)","Sacramento, CA (P)",156299,1 
+"06","01800","9999"," ","CA","Non-metro"," ",179291,1 
+"06","01901","8120"," ","CA","Stockton-Lodi, CA"," ",110315,1 
+"06","01902","8120"," ","CA","Stockton-Lodi, CA"," ",133456,1 
+"06","02001","8120"," ","CA","Stockton-Lodi, CA"," ",149825,1 
+"06","02002","8120"," ","CA","Stockton-Lodi, CA"," ",170002,1 
+"06","02101","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",126004,1 
+"06","02102","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",116435,1 
+"06","02103","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",106258,1 
+"06","02104","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",149173,1 
+"06","02105","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",111307,1 
+"06","02106","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",119237,1 
+"06","02107","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",108255,1 
+"06","02108","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",112147,1 
+"06","02201","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",136975,1 
+"06","02202","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",107285,1 
+"06","02203","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",107054,1 
+"06","02204","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",109355,1 
+"06","02205","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",105532,1 
+"06","02206","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",105194,1 
+"06","02207","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",105338,1 
+"06","02301","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",140752,1 
+"06","02302","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",112191,1 
+"06","02303","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",100602,1 
+"06","02304","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",114773,1 
+"06","02305","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",124010,1 
+"06","02306","7362","7360","CA","San Francisco-Oakland-San Jose, CA (C)","San Francisco, CA (P)",114833,1 
+"06","02401","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",119187,1 
+"06","02402","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",157015,1 
+"06","02403","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",125518,1 
+"06","02404","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",131451,1 
+"06","02405","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",156293,1 
+"06","02406","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",130433,1 
+"06","02407","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",140428,1 
+"06","02408","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",130230,1 
+"06","02409","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",181534,1 
+"06","02410","7362","5775","CA","San Francisco-Oakland-San Jose, CA (C)","Oakland, CA (P)",171652,1 
+"06","02500","5170"," ","CA","Modesto, CA"," ",188856,1 
+"06","02601","5170"," ","CA","Modesto, CA"," ",138237,1 
+"06","02602","5170"," ","CA","Modesto, CA"," ",119904,1 
+"06","02701","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",184797,1 
+"06","02702","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",135615,1 
+"06","02703","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",108439,1 
+"06","02704","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",123403,1 
+"06","02705","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",104767,1 
+"06","02706","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",102115,1 
+"06","02707","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",126866,1 
+"06","02708","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",126838,1 
+"06","02709","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",116043,1 
+"06","02710","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",143990,1 
+"06","02711","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",100883,1 
+"06","02712","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",103304,1 
+"06","02713","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",105055,1 
+"06","02714","7362","7400","CA","San Francisco-Oakland-San Jose, CA (C)","San Jose, CA (P)",100470,1 
+"06","02801","7362","7485","CA","San Francisco-Oakland-San Jose, CA (C)","Santa Cruz-Watsonville, CA (P)",122562,1 
+"06","02802","7362","7485","CA","San Francisco-Oakland-San Jose, CA (C)","Santa Cruz-Watsonville, CA (P)",133040,1 
+"06","02900","7120"," ","CA","Salinas, CA"," ",151060,1 
+"06","03001","7120"," ","CA","Salinas, CA"," ",130206,1 
+"06","03002","7120"," ","CA","Salinas, CA"," ",120496,0.694 
+"06","03002","9999"," ","CA","Non-metro"," ",53234,0.306 
+"06","03100","4940"," ","CA","Merced, CA"," ",210554,1 
+"06","03200","2840"," ","CA","Fresno, CA"," ",123109,1 
+"06","03301","2840"," ","CA","Fresno, CA"," ",296056,1 
+"06","03302","2840"," ","CA","Fresno, CA"," ",131596,1 
+"06","03401","2840"," ","CA","Fresno, CA"," ",139883,1 
+"06","03402","2840"," ","CA","Fresno, CA"," ",231872,1 
+"06","03501","8780"," ","CA","Visalia-Tulare-Porterville, CA"," ",105125,1 
+"06","03502","8780"," ","CA","Visalia-Tulare-Porterville, CA"," ",119014,1 
+"06","03503","8780"," ","CA","Visalia-Tulare-Porterville, CA"," ",143882,1 
+"06","03600","9999"," ","CA","Non-metro"," ",129461,1 
+"06","03701","7460"," ","CA","San Luis Obispo-Atascadero-Paso Robles, CA"," ",117927,1 
+"06","03702","7460"," ","CA","San Luis Obispo-Atascadero-Paso Robles, CA"," ",128754,1 
+"06","03800","0680"," ","CA","Bakersfield, CA"," ",247057,1 
+"06","03901","0680"," ","CA","Bakersfield, CA"," ",125980,1 
+"06","03902","0680"," ","CA","Bakersfield, CA"," ",146717,1 
+"06","03903","0680"," ","CA","Bakersfield, CA"," ",141891,1 
+"06","04000","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",158007,1 
+"06","04100","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",127743,1 
+"06","04200","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",128929,1 
+"06","04300","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",185401,1 
+"06","04401","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",145990,1 
+"06","04402","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",108047,1 
+"06","04403","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",204331,1 
+"06","04404","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",188687,1 
+"06","04405","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",166142,1 
+"06","04406","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",185721,1 
+"06","04407","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",110436,1 
+"06","04500","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",118718,1 
+"06","04600","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",116670,1 
+"06","04700","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",151088,1 
+"06","04800","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",100316,1 
+"06","04900","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",194973,1 
+"06","05000","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",133936,1 
+"06","05100","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",115965,1 
+"06","05200","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",149473,1 
+"06","05300","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",124283,1 
+"06","05401","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",162235,1 
+"06","05402","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",126845,1 
+"06","05403","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",120285,1 
+"06","05404","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",131131,1 
+"06","05405","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",128277,1 
+"06","05406","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",133680,1 
+"06","05407","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",159064,1 
+"06","05408","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",160836,1 
+"06","05409","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",150282,1 
+"06","05410","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",156616,1 
+"06","05411","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",194388,1 
+"06","05412","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",164698,1 
+"06","05413","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",233983,1 
+"06","05414","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",123129,1 
+"06","05415","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",193704,1 
+"06","05416","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",228910,1 
+"06","05417","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",153663,1 
+"06","05418","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",107542,1 
+"06","05419","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",156039,1 
+"06","05420","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",114788,1 
+"06","05421","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",161383,1 
+"06","05422","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",119937,1 
+"06","05423","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",129796,1 
+"06","05424","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",184246,1 
+"06","05500","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",112580,1 
+"06","05600","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",137946,1 
+"06","05701","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",138799,1 
+"06","05702","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",196892,1 
+"06","05703","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",125831,1 
+"06","05800","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",105080,1 
+"06","05900","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",107323,1 
+"06","06000","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",103298,1 
+"06","06101","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",122141,1 
+"06","06102","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",142241,1 
+"06","06103","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",110116,1 
+"06","06104","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",172377,1 
+"06","06105","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",159524,1 
+"06","06106","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",163104,1 
+"06","06107","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",114547,1 
+"06","06108","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",110972,1 
+"06","06109","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",126720,1 
+"06","06110","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",166971,1 
+"06","06111","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",128245,1 
+"06","06112","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",122051,1 
+"06","06113","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",145553,1 
+"06","06114","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",137816,1 
+"06","06115","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",168966,1 
+"06","06116","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",128144,1 
+"06","06117","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",130374,1 
+"06","06118","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",163666,1 
+"06","06119","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",149972,1 
+"06","06120","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",110297,1 
+"06","06121","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",100797,1 
+"06","06122","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",131712,1 
+"06","06123","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",140665,1 
+"06","06124","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",116546,1 
+"06","06125","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",218389,1 
+"06","06126","4472","4480","CA","Los Angeles-Riverside-Orange County, CA (C)","Los Angeles-Long Beach, CA (P)",108804,1 
+"06","06200","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",170358,1 
+"06","06300","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",100916,1 
+"06","06400","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",111351,1 
+"06","06500","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",117005,1 
+"06","06601","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",126049,1 
+"06","06602","4472","8735","CA","Los Angeles-Riverside-Orange County, CA (C)","Ventura, CA (P)",127518,1 
+"06","06701","7480"," ","CA","Santa Barbara-Santa Maria-Lompoc, CA"," ",198345,1 
+"06","06702","7480"," ","CA","Santa Barbara-Santa Maria-Lompoc, CA"," ",201002,1 
+"06","06801","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",191282,1 
+"06","06802","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",137014,1 
+"06","06900","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",108724,1 
+"06","07000","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",126003,1 
+"06","07100","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",165198,1 
+"06","07200","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",189594,1 
+"06","07300","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",143072,1 
+"06","07400","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",128919,1 
+"06","07501","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",156600,1 
+"06","07502","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",181377,1 
+"06","07601","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",172917,1 
+"06","07602","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",168193,1 
+"06","07603","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",187462,1 
+"06","07604","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",205563,1 
+"06","07605","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",188133,1 
+"06","07606","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",200540,1 
+"06","07607","4472","5945","CA","Los Angeles-Riverside-Orange County, CA (C)","Orange County, CA (P)",195698,1 
+"06","07700","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",124966,1 
+"06","07801","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",111647,1 
+"06","07802","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",143519,1 
+"06","07900","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",142381,1 
+"06","08001","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",288783,1 
+"06","08002","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",196134,1 
+"06","08003","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",182040,1 
+"06","08004","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",196172,1 
+"06","08005","4472","6780","CA","Los Angeles-Riverside-Orange County, CA (C)","Riverside-San Bernardino, CA (P)",159745,1 
+"06","08101","7320"," ","CA","San Diego, CA"," ",241025,1 
+"06","08102","7320"," ","CA","San Diego, CA"," ",124020,1 
+"06","08103","7320"," ","CA","San Diego, CA"," ",149147,1 
+"06","08104","7320"," ","CA","San Diego, CA"," ",183293,1 
+"06","08105","7320"," ","CA","San Diego, CA"," ",210139,1 
+"06","08106","7320"," ","CA","San Diego, CA"," ",107380,1 
+"06","08107","7320"," ","CA","San Diego, CA"," ",168125,1 
+"06","08108","7320"," ","CA","San Diego, CA"," ",227240,1 
+"06","08109","7320"," ","CA","San Diego, CA"," ",230212,1 
+"06","08110","7320"," ","CA","San Diego, CA"," ",125132,1 
+"06","08111","7320"," ","CA","San Diego, CA"," ",139299,1 
+"06","08112","7320"," ","CA","San Diego, CA"," ",164234,1 
+"06","08113","7320"," ","CA","San Diego, CA"," ",176440,1 
+"06","08114","7320"," ","CA","San Diego, CA"," ",172344,1 
+"06","08115","7320"," ","CA","San Diego, CA"," ",208114,1 
+"06","08116","7320"," ","CA","San Diego, CA"," ",187689,1 
+"06","08200","9999"," ","CA","Non-metro"," ",142361,1 
+"08","00101","2670"," ","CO","Fort Collins-Loveland, CO"," ",12749,0.127 
+"08","00101","2995"," ","CO","Grand Junction, CO"," ",3112,0.031 
+"08","00101","9999"," ","CO","Non-metro"," ",84228,0.842 
+"08","00102","2670"," ","CO","Fort Collins-Loveland, CO"," ",120093,1 
+"08","00103","2995"," ","CO","Grand Junction, CO"," ",113143,1 
+"08","00200","2670"," ","CO","Fort Collins-Loveland, CO"," ",118652,1 
+"08","00300","2082","3060","CO","Denver-Boulder-Greeley, CO (C)","Greeley, CO (P)",180936,1 
+"08","00400","9999"," ","CO","Non-metro"," ",133491,1 
+"08","00501","6560"," ","CO","Pueblo, CO"," ",7499,0.074 
+"08","00501","9999"," ","CO","Non-metro"," ",93256,0.926 
+"08","00502","6560"," ","CO","Pueblo, CO"," ",133973,1 
+"08","00600","9999"," ","CO","Non-metro"," ",147931,1 
+"08","00700","9999"," ","CO","Non-metro"," ",119652,1 
+"08","00801","2082","1125","CO","Denver-Boulder-Greeley, CO (C)","Boulder-Longmont, CO (P)",15998,0.149 
+"08","00801","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",77389,0.72 
+"08","00801","9999"," ","CO","Non-metro"," ",14079,0.131 
+"08","00802","2082","1125","CO","Denver-Boulder-Greeley, CO (C)","Boulder-Longmont, CO (P)",113092,1 
+"08","00803","2082","1125","CO","Denver-Boulder-Greeley, CO (C)","Boulder-Longmont, CO (P)",107227,1 
+"08","00804","2082","1125","CO","Denver-Boulder-Greeley, CO (C)","Boulder-Longmont, CO (P)",54971,0.54 
+"08","00804","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",46827,0.46 
+"08","00805","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",105982,1 
+"08","00806","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",110684,1 
+"08","00807","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",101408,1 
+"08","00808","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",112814,1 
+"08","00809","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",103816,1 
+"08","00810","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",113602,1 
+"08","00811","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",102959,1 
+"08","00812","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",117406,1 
+"08","00813","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",100089,1 
+"08","00814","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",100910,1 
+"08","00815","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",142364,1 
+"08","00816","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",114985,1 
+"08","00817","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",109722,1 
+"08","00818","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",100888,1 
+"08","00819","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",135315,1 
+"08","00820","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",104775,1 
+"08","00821","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",106540,1 
+"08","00822","2082","2080","CO","Denver-Boulder-Greeley, CO (C)","Denver, CO (P)",100807,1 
+"08","00901","1720"," ","CO","Colorado Springs, CO"," ",102268,1 
+"08","00902","1720"," ","CO","Colorado Springs, CO"," ",101808,1 
+"08","00903","1720"," ","CO","Colorado Springs, CO"," ",101046,1 
+"08","00904","1720"," ","CO","Colorado Springs, CO"," ",109251,1 
+"08","00905","1720"," ","CO","Colorado Springs, CO"," ",102556,1 
+"08","01000","9999"," ","CO","Non-metro"," ",100968,1 
+"09","00100","3280"," ","CT","Hartford, CT"," ",37163,0.204 
+"09","00100","5602","1930","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Danbury, CT (P)",34677,0.19 
+"09","00100","5602","8880","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Waterbury, CT (P)",41784,0.229 
+"09","00100","9999"," ","CT","Non-metro"," ",68569,0.376 
+"09","00200","3280"," ","CT","Hartford, CT"," ",148366,0.987 
+"09","00200","9999"," ","CT","Non-metro"," ",2012,0.013 
+"09","00300","3280"," ","CT","Hartford, CT"," ",104315,1 
+"09","00400","3280"," ","CT","Hartford, CT"," ",154723,1 
+"09","00500","3280"," ","CT","Hartford, CT"," ",107980,1 
+"09","00600","3280"," ","CT","Hartford, CT"," ",107081,1 
+"09","00700","3280"," ","CT","Hartford, CT"," ",111128,1 
+"09","00800","3280"," ","CT","Hartford, CT"," ",121578,1 
+"09","00900","3280"," ","CT","Hartford, CT"," ",135671,0.995 
+"09","00900","9999"," ","CT","Non-metro"," ",693,0.005 
+"09","01000","1122","9240","CT","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Worcester, MA-CT (P)",8878,0.081 
+"09","01000","3280"," ","CT","Hartford, CT"," ",29205,0.268 
+"09","01000","5520"," ","CT","New London-Norwich, CT-RI"," ",19311,0.177 
+"09","01000","9999"," ","CT","Non-metro"," ",51697,0.474 
+"09","01100","3280"," ","CT","Hartford, CT"," ",21458,0.166 
+"09","01100","5520"," ","CT","New London-Norwich, CT-RI"," ",104926,0.814 
+"09","01100","9999"," ","CT","Non-metro"," ",2528,0.02 
+"09","01200","5520"," ","CT","New London-Norwich, CT-RI"," ",128160,0.985 
+"09","01200","9999"," ","CT","Non-metro"," ",2016,0.015 
+"09","01300","3280"," ","CT","Hartford, CT"," ",104442,0.674 
+"09","01300","5520"," ","CT","New London-Norwich, CT-RI"," ",10367,0.067 
+"09","01300","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",19112,0.123 
+"09","01300","9999"," ","CT","Non-metro"," ",21150,0.136 
+"09","01400","5602","1160","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bridgeport, CT (P)",15067,0.122 
+"09","01400","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",28543,0.231 
+"09","01400","5602","8880","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Waterbury, CT (P)",79929,0.647 
+"09","01500","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",124305,1 
+"09","01600","5602","1160","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bridgeport, CT (P)",46399,0.395 
+"09","01600","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",70936,0.605 
+"09","01700","5602","1160","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bridgeport, CT (P)",52305,0.444 
+"09","01700","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",65593,0.556 
+"09","01800","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",110034,1 
+"09","01900","5602","8880","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Waterbury, CT (P)",107271,1 
+"09","02000","5602","5480","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New Haven-Meriden, CT (P)",123626,1 
+"09","02100","5602","1930","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Danbury, CT (P)",183303,1 
+"09","02200","5602","1160","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bridgeport, CT (P)",206179,1 
+"09","02300","5602","8040","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Stamford-Norwalk, CT (P)",236473,1 
+"09","02400","5602","1160","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bridgeport, CT (P)",139529,1 
+"09","02500","5602","8040","CT","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Stamford-Norwalk, CT (P)",117083,1 
+"10","00101","6162","9160","DE","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Wilmington-Newark, DE-MD (P)",150716,1 
+"10","00102","6162","9160","DE","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Wilmington-Newark, DE-MD (P)",125253,1 
+"10","00103","6162","9160","DE","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Wilmington-Newark, DE-MD (P)",122063,1 
+"10","00104","6162","9160","DE","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Wilmington-Newark, DE-MD (P)",102233,1 
+"10","00200","2190"," ","DE","Dover, DE"," ",126697,1 
+"10","00300","9999"," ","DE","Non-metro"," ",156638,1 
+"11","00101","8872","8840","DC","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",101578,1 
+"11","00102","8872","8840","DC","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",106159,1 
+"11","00103","8872","8840","DC","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",117201,1 
+"11","00104","8872","8840","DC","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",139614,1 
+"11","00105","8872","8840","DC","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",107507,1 
+"12","00101","6080"," ","FL","Pensacola, FL"," ",193053,1 
+"12","00102","6080"," ","FL","Pensacola, FL"," ",101357,1 
+"12","00200","6080"," ","FL","Pensacola, FL"," ",117743,1 
+"12","00300","2750"," ","FL","Fort Walton Beach, FL"," ",170498,1 
+"12","00400","9999"," ","FL","Non-metro"," ",126893,1 
+"12","00500","6015"," ","FL","Panama City, FL"," ",148217,1 
+"12","00600","9999"," ","FL","Non-metro"," ",118181,1 
+"12","00701","8240"," ","FL","Tallahassee, FL"," ",171782,1 
+"12","00702","8240"," ","FL","Tallahassee, FL"," ",112757,1 
+"12","00800","9999"," ","FL","Non-metro"," ",117907,1 
+"12","00900","9999"," ","FL","Non-metro"," ",118302,1 
+"12","01001","2900"," ","FL","Gainesville, FL"," ",107751,1 
+"12","01002","2900"," ","FL","Gainesville, FL"," ",110204,1 
+"12","01101","3600"," ","FL","Jacksonville, FL"," ",106695,1 
+"12","01102","3600"," ","FL","Jacksonville, FL"," ",136875,1 
+"12","01103","3600"," ","FL","Jacksonville, FL"," ",105872,1 
+"12","01104","3600"," ","FL","Jacksonville, FL"," ",124697,1 
+"12","01105","3600"," ","FL","Jacksonville, FL"," ",104611,1 
+"12","01106","3600"," ","FL","Jacksonville, FL"," ",101008,1 
+"12","01107","3600"," ","FL","Jacksonville, FL"," ",156784,1 
+"12","01200","3600"," ","FL","Jacksonville, FL"," ",123135,1 
+"12","01300","3600"," ","FL","Jacksonville, FL"," ",140814,1 
+"12","01400","2020"," ","FL","Daytona Beach, FL"," ",49832,0.414 
+"12","01400","9999"," ","FL","Non-metro"," ",70423,0.586 
+"12","01501","5790"," ","FL","Ocala, FL"," ",104671,1 
+"12","01502","5790"," ","FL","Ocala, FL"," ",154245,1 
+"12","01600","9999"," ","FL","Non-metro"," ",171430,1 
+"12","01700","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",130802,1 
+"12","01801","5960"," ","FL","Orlando, FL"," ",105439,1 
+"12","01802","5960"," ","FL","Orlando, FL"," ",105089,1 
+"12","01901","2020"," ","FL","Daytona Beach, FL"," ",192698,1 
+"12","01902","2020"," ","FL","Daytona Beach, FL"," ",120738,1 
+"12","01903","2020"," ","FL","Daytona Beach, FL"," ",129907,1 
+"12","02001","5960"," ","FL","Orlando, FL"," ",154102,1 
+"12","02002","5960"," ","FL","Orlando, FL"," ",104758,1 
+"12","02003","5960"," ","FL","Orlando, FL"," ",106336,1 
+"12","02101","4900"," ","FL","Melbourne-Titusville-Palm Bay, FL"," ",155942,1 
+"12","02102","4900"," ","FL","Melbourne-Titusville-Palm Bay, FL"," ",118603,1 
+"12","02103","4900"," ","FL","Melbourne-Titusville-Palm Bay, FL"," ",100779,1 
+"12","02104","4900"," ","FL","Melbourne-Titusville-Palm Bay, FL"," ",100906,1 
+"12","02201","5960"," ","FL","Orlando, FL"," ",101682,1 
+"12","02202","5960"," ","FL","Orlando, FL"," ",179736,1 
+"12","02203","5960"," ","FL","Orlando, FL"," ",129757,1 
+"12","02204","5960"," ","FL","Orlando, FL"," ",136998,1 
+"12","02205","5960"," ","FL","Orlando, FL"," ",102607,1 
+"12","02206","5960"," ","FL","Orlando, FL"," ",141404,1 
+"12","02207","5960"," ","FL","Orlando, FL"," ",104160,1 
+"12","02300","5960"," ","FL","Orlando, FL"," ",172493,1 
+"12","02401","3980"," ","FL","Lakeland-Winter Haven, FL"," ",150697,1 
+"12","02402","3980"," ","FL","Lakeland-Winter Haven, FL"," ",125708,1 
+"12","02403","3980"," ","FL","Lakeland-Winter Haven, FL"," ",102295,1 
+"12","02404","3980"," ","FL","Lakeland-Winter Haven, FL"," ",105224,1 
+"12","02501","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",117591,1 
+"12","02502","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",119444,1 
+"12","02503","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",107730,1 
+"12","02601","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",119663,1 
+"12","02602","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",103249,1 
+"12","02603","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",113201,1 
+"12","02604","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",105885,1 
+"12","02605","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",117145,1 
+"12","02606","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",109279,1 
+"12","02607","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",125883,1 
+"12","02608","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",127177,1 
+"12","02701","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",138437,1 
+"12","02702","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",149564,1 
+"12","02703","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",116729,1 
+"12","02704","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",147502,1 
+"12","02705","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",105500,1 
+"12","02706","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",101490,1 
+"12","02707","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",133534,1 
+"12","02708","8280"," ","FL","Tampa-St. Petersburg-Clearwater, FL"," ",106192,1 
+"12","02801","7510"," ","FL","Sarasota-Bradenton, FL"," ",134394,1 
+"12","02802","7510"," ","FL","Sarasota-Bradenton, FL"," ",129608,1 
+"12","02901","7510"," ","FL","Sarasota-Bradenton, FL"," ",175152,1 
+"12","02902","7510"," ","FL","Sarasota-Bradenton, FL"," ",150805,1 
+"12","03000","6580"," ","FL","Punta Gorda, FL"," ",141627,1 
+"12","03100","9999"," ","FL","Non-metro"," ",193299,1 
+"12","03200","9999"," ","FL","Non-metro"," ",148857,1 
+"12","03300","2710"," ","FL","Fort Pierce-Port St. Lucie, FL"," ",192695,1 
+"12","03400","2710"," ","FL","Fort Pierce-Port St. Lucie, FL"," ",126731,1 
+"12","03501","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",183935,1 
+"12","03502","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",129888,1 
+"12","03503","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",110005,1 
+"12","03504","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",107544,1 
+"12","03505","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",129324,1 
+"12","03506","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",107735,1 
+"12","03507","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",105032,1 
+"12","03508","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",102811,1 
+"12","03509","8960"," ","FL","West Palm Beach-Boca Raton, FL"," ",154910,1 
+"12","03601","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",132951,1 
+"12","03602","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",105683,1 
+"12","03603","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",104503,1 
+"12","03604","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",109935,1 
+"12","03605","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",141829,1 
+"12","03606","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",174040,1 
+"12","03607","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",106010,1 
+"12","03608","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",144356,1 
+"12","03609","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",112455,1 
+"12","03610","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",135089,1 
+"12","03611","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",130089,1 
+"12","03612","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",102383,1 
+"12","03613","4992","2680","FL","Miami-Fort Lauderdale, FL (C)","Fort Lauderdale, FL (P)",123695,1 
+"12","03701","5345"," ","FL","Naples, FL"," ",123148,1 
+"12","03702","5345"," ","FL","Naples, FL"," ",128229,1 
+"12","03800","2700"," ","FL","Fort Myers-Cape Coral, FL"," ",102286,1 
+"12","03901","2700"," ","FL","Fort Myers-Cape Coral, FL"," ",117247,1 
+"12","03902","2700"," ","FL","Fort Myers-Cape Coral, FL"," ",105694,1 
+"12","03903","2700"," ","FL","Fort Myers-Cape Coral, FL"," ",115661,1 
+"12","04001","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",102123,1 
+"12","04002","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",104643,1 
+"12","04003","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",105305,1 
+"12","04004","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",118445,1 
+"12","04005","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",137551,1 
+"12","04006","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",101338,1 
+"12","04007","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",128514,1 
+"12","04008","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",125727,1 
+"12","04009","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",101190,1 
+"12","04010","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",110054,1 
+"12","04011","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",158650,1 
+"12","04012","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",138722,1 
+"12","04013","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",108940,1 
+"12","04014","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",111491,1 
+"12","04015","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",128513,1 
+"12","04016","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",104501,1 
+"12","04017","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",117082,1 
+"12","04018","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",102653,1 
+"12","04019","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",120654,1 
+"12","04020","4992","5000","FL","Miami-Fort Lauderdale, FL (C)","Miami, FL (P)",27266,0.255 
+"12","04020","9999"," ","FL","Non-metro"," ",79589,0.745 
+"13","00100","1560"," ","GA","Chattanooga, TN-GA"," ",129489,1 
+"13","00200","9999"," ","GA","Non-metro"," ",164135,1 
+"13","00300","9999"," ","GA","Non-metro"," ",161774,1 
+"13","00400","9999"," ","GA","Non-metro"," ",124728,1 
+"13","00500","0500"," ","GA","Athens, GA"," ",153444,1 
+"13","00600","9999"," ","GA","Non-metro"," ",139277,1 
+"13","00700","0520"," ","GA","Atlanta, GA"," ",157697,1 
+"13","00800","0520"," ","GA","Atlanta, GA"," ",121390,0.884 
+"13","00800","9999"," ","GA","Non-metro"," ",15999,0.116 
+"13","00900","0520"," ","GA","Atlanta, GA"," ",106831,1 
+"13","01000","9999"," ","GA","Non-metro"," ",110971,1 
+"13","01101","0520"," ","GA","Atlanta, GA"," ",112940,1 
+"13","01102","0520"," ","GA","Atlanta, GA"," ",178889,1 
+"13","01103","0520"," ","GA","Atlanta, GA"," ",107185,1 
+"13","01104","0520"," ","GA","Atlanta, GA"," ",104024,1 
+"13","01105","0520"," ","GA","Atlanta, GA"," ",106368,1 
+"13","01106","0520"," ","GA","Atlanta, GA"," ",103547,1 
+"13","01107","0520"," ","GA","Atlanta, GA"," ",103053,1 
+"13","01201","0520"," ","GA","Atlanta, GA"," ",112100,1 
+"13","01202","0520"," ","GA","Atlanta, GA"," ",129097,1 
+"13","01203","0520"," ","GA","Atlanta, GA"," ",104195,1 
+"13","01204","0520"," ","GA","Atlanta, GA"," ",108004,1 
+"13","01205","0520"," ","GA","Atlanta, GA"," ",102456,1 
+"13","01206","0520"," ","GA","Atlanta, GA"," ",110013,1 
+"13","01301","0520"," ","GA","Atlanta, GA"," ",112650,1 
+"13","01302","0520"," ","GA","Atlanta, GA"," ",115072,1 
+"13","01303","0520"," ","GA","Atlanta, GA"," ",105222,1 
+"13","01304","0520"," ","GA","Atlanta, GA"," ",106916,1 
+"13","01305","0520"," ","GA","Atlanta, GA"," ",167891,1 
+"13","01401","0520"," ","GA","Atlanta, GA"," ",123603,1 
+"13","01402","0520"," ","GA","Atlanta, GA"," ",112914,1 
+"13","01501","0520"," ","GA","Atlanta, GA"," ",111742,1 
+"13","01502","0520"," ","GA","Atlanta, GA"," ",131284,1 
+"13","01503","0520"," ","GA","Atlanta, GA"," ",103717,1 
+"13","01504","0520"," ","GA","Atlanta, GA"," ",121758,1 
+"13","01505","0520"," ","GA","Atlanta, GA"," ",119947,1 
+"13","01600","0520"," ","GA","Atlanta, GA"," ",132112,1 
+"13","01700","0520"," ","GA","Atlanta, GA"," ",119341,1 
+"13","01800","0520"," ","GA","Atlanta, GA"," ",179442,1 
+"13","01900","0520"," ","GA","Atlanta, GA"," ",141903,1 
+"13","02000","0520"," ","GA","Atlanta, GA"," ",238895,1 
+"13","02100","9999"," ","GA","Non-metro"," ",179852,1 
+"13","02200","9999"," ","GA","Non-metro"," ",100533,1 
+"13","02300","0600"," ","GA","Augusta-Aiken, GA-SC"," ",199775,1 
+"13","02400","0600"," ","GA","Augusta-Aiken, GA-SC"," ",110519,1 
+"13","02500","9999"," ","GA","Non-metro"," ",109027,1 
+"13","02600","9999"," ","GA","Non-metro"," ",138592,1 
+"13","02700","4680"," ","GA","Macon, GA"," ",153887,1 
+"13","02800","4680"," ","GA","Macon, GA"," ",168662,1 
+"13","02900","1800"," ","GA","Columbus, GA-AL"," ",23695,0.193 
+"13","02900","9999"," ","GA","Non-metro"," ",98823,0.807 
+"13","03000","1800"," ","GA","Columbus, GA-AL"," ",186291,1 
+"13","03100","1800"," ","GA","Columbus, GA-AL"," ",14882,0.126 
+"13","03100","9999"," ","GA","Non-metro"," ",102910,0.874 
+"13","03200","9999"," ","GA","Non-metro"," ",108166,1 
+"13","03300","9999"," ","GA","Non-metro"," ",155028,1 
+"13","03400","7520"," ","GA","Savannah, GA"," ",131510,1 
+"13","03500","7520"," ","GA","Savannah, GA"," ",100538,1 
+"13","03600","7520"," ","GA","Savannah, GA"," ",60952,0.424 
+"13","03600","9999"," ","GA","Non-metro"," ",82761,0.576 
+"13","03700","9999"," ","GA","Non-metro"," ",111232,1 
+"13","03800","9999"," ","GA","Non-metro"," ",138033,1 
+"13","03900","9999"," ","GA","Non-metro"," ",114573,1 
+"13","04000","0120"," ","GA","Albany, GA"," ",120822,1 
+"13","04100","9999"," ","GA","Non-metro"," ",140668,1 
+"13","04200","9999"," ","GA","Non-metro"," ",110388,1 
+"13","04300","9999"," ","GA","Non-metro"," ",112319,1 
+"15","00100","9999"," ","HI","Non-metro"," ",186704,1 
+"15","00200","9999"," ","HI","Non-metro"," ",148677,1 
+"15","00301","3320"," ","HI","Honolulu, HI"," ",113560,1 
+"15","00302","3320"," ","HI","Honolulu, HI"," ",117994,1 
+"15","00303","3320"," ","HI","Honolulu, HI"," ",102724,1 
+"15","00304","3320"," ","HI","Honolulu, HI"," ",109509,1 
+"15","00305","3320"," ","HI","Honolulu, HI"," ",109354,1 
+"15","00306","3320"," ","HI","Honolulu, HI"," ",144481,1 
+"15","00307","3320"," ","HI","Honolulu, HI"," ",178534,1 
+"16","00100","9999"," ","ID","Non-metro"," ",178333,1 
+"16","00200","9999"," ","ID","Non-metro"," ",100533,1 
+"16","00300","9999"," ","ID","Non-metro"," ",163031,1 
+"16","00400","9999"," ","ID","Non-metro"," ",103307,1 
+"16","00500","1080"," ","ID","Boise City, ID"," ",131441,1 
+"16","00600","1080"," ","ID","Boise City, ID"," ",185787,1 
+"16","00700","1080"," ","ID","Boise City, ID"," ",115117,1 
+"16","00800","9999"," ","ID","Non-metro"," ",162397,1 
+"16","00900","6340"," ","ID","Pocatello, ID"," ",75565,0.491 
+"16","00900","9999"," ","ID","Non-metro"," ",78442,0.509 
+"17","00101","1960"," ","IL","Davenport-Moline-Rock Island, IA-IL"," ",7282,0.068 
+"17","00101","9999"," ","IL","Non-metro"," ",99616,0.932 
+"17","00102","1960"," ","IL","Davenport-Moline-Rock Island, IA-IL"," ",84704,0.833 
+"17","00102","9999"," ","IL","Non-metro"," ",16957,0.167 
+"17","00103","1960"," ","IL","Davenport-Moline-Rock Island, IA-IL"," ",108408,1 
+"17","00200","9999"," ","IL","Non-metro"," ",118232,1 
+"17","00300","9999"," ","IL","Non-metro"," ",115838,1 
+"17","00400","9999"," ","IL","Non-metro"," ",124712,1 
+"17","00500","9999"," ","IL","Non-metro"," ",104351,1 
+"17","00600","9999"," ","IL","Non-metro"," ",104075,1 
+"17","00700","9999"," ","IL","Non-metro"," ",110889,1 
+"17","00800","9999"," ","IL","Non-metro"," ",149561,1 
+"17","00900","9999"," ","IL","Non-metro"," ",183020,1 
+"17","01000","9999"," ","IL","Non-metro"," ",130777,1 
+"17","01101","7040"," ","IL","St. Louis, MO-IL"," ",181480,1 
+"17","01102","7040"," ","IL","St. Louis, MO-IL"," ",137756,1 
+"17","01201","7040"," ","IL","St. Louis, MO-IL"," ",122336,1 
+"17","01202","7040"," ","IL","St. Louis, MO-IL"," ",158273,1 
+"17","01300","7880"," ","IL","Springfield, IL"," ",111454,1 
+"17","01400","7880"," ","IL","Springfield, IL"," ",89983,0.743 
+"17","01400","9999"," ","IL","Non-metro"," ",31183,0.257 
+"17","01500","2040"," ","IL","Decatur, IL"," ",114706,1 
+"17","01600","9999"," ","IL","Non-metro"," ",105715,1 
+"17","01700","6120"," ","IL","Peoria-Pekin, IL"," ",112936,1 
+"17","01800","6120"," ","IL","Peoria-Pekin, IL"," ",105966,1 
+"17","01900","6120"," ","IL","Peoria-Pekin, IL"," ",128485,1 
+"17","02000","1040"," ","IL","Bloomington-Normal, IL"," ",150433,1 
+"17","02100","1400"," ","IL","Champaign-Urbana, IL"," ",179669,1 
+"17","02200","9999"," ","IL","Non-metro"," ",169172,1 
+"17","02300","1602","3740","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Kankakee, IL (P)",103833,1 
+"17","02400","9999"," ","IL","Non-metro"," ",111509,1 
+"17","02500","9999"," ","IL","Non-metro"," ",116937,1 
+"17","02600","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",88969,0.712 
+"17","02600","9999"," ","IL","Non-metro"," ",36062,0.288 
+"17","02700","6880"," ","IL","Rockford, IL"," ",51032,0.51 
+"17","02700","9999"," ","IL","Non-metro"," ",48979,0.49 
+"17","02800","6880"," ","IL","Rockford, IL"," ",150115,1 
+"17","02900","6880"," ","IL","Rockford, IL"," ",170089,1 
+"17","03001","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",105693,1 
+"17","03002","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",113751,1 
+"17","03003","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",143591,1 
+"17","03004","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",109171,1 
+"17","03005","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",115553,1 
+"17","03006","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",130981,1 
+"17","03101","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",121487,1 
+"17","03102","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",114467,1 
+"17","03103","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",142062,1 
+"17","03104","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",161785,1 
+"17","03201","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",194667,1 
+"17","03202","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",118616,1 
+"17","03203","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",117604,1 
+"17","03204","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",148110,1 
+"17","03205","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",124553,1 
+"17","03206","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",200611,1 
+"17","03301","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",109714,1 
+"17","03302","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",133084,1 
+"17","03303","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",191558,1 
+"17","03304","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",104957,1 
+"17","03305","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",105043,1 
+"17","03401","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",124847,1 
+"17","03402","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",217585,1 
+"17","03403","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",252722,1 
+"17","03404","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",220200,1 
+"17","03405","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",233593,1 
+"17","03406","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",119164,1 
+"17","03407","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",183170,1 
+"17","03408","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",192156,1 
+"17","03409","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",147937,1 
+"17","03410","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",162526,1 
+"17","03411","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",174613,1 
+"17","03412","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",109887,1 
+"17","03413","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",180802,1 
+"17","03414","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",161525,1 
+"17","03501","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",189233,1 
+"17","03502","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",159137,1 
+"17","03503","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",149668,1 
+"17","03504","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",152977,1 
+"17","03505","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",128905,1 
+"17","03506","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",156130,1 
+"17","03507","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",117527,1 
+"17","03508","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",151504,1 
+"17","03509","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",240141,1 
+"17","03510","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",145127,1 
+"17","03511","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",135102,1 
+"17","03512","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",170965,1 
+"17","03513","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",204193,1 
+"17","03514","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",126435,1 
+"17","03515","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",175683,1 
+"17","03516","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",171275,1 
+"17","03517","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",105622,1 
+"17","03518","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",108102,1 
+"17","03519","1602","1600","IL","Chicago-Gary-Kenosha, IL-IN-WI (C)","Chicago, IL (P)",108288,1 
+"18","00100","1602","2960","IN","Chicago-Gary-Kenosha, IL-IN-WI (C)","Gary, IN (P)",102746,1 
+"18","00201","1602","2960","IN","Chicago-Gary-Kenosha, IL-IN-WI (C)","Gary, IN (P)",120599,1 
+"18","00202","1602","2960","IN","Chicago-Gary-Kenosha, IL-IN-WI (C)","Gary, IN (P)",159881,1 
+"18","00203","1602","2960","IN","Chicago-Gary-Kenosha, IL-IN-WI (C)","Gary, IN (P)",101338,1 
+"18","00300","1602","2960","IN","Chicago-Gary-Kenosha, IL-IN-WI (C)","Gary, IN (P)",146798,1 
+"18","00400","9999"," ","IN","Non-metro"," ",110106,1 
+"18","00500","7800"," ","IN","South Bend, IN"," ",107789,1 
+"18","00600","7800"," ","IN","South Bend, IN"," ",157770,1 
+"18","00700","2330"," ","IN","Elkhart-Goshen, IN"," ",182791,1 
+"18","00800","2760"," ","IN","Fort Wayne, IN"," ",40285,0.26 
+"18","00800","9999"," ","IN","Non-metro"," ",114398,0.74 
+"18","00900","2760"," ","IN","Fort Wayne, IN"," ",205727,1 
+"18","01000","2760"," ","IN","Fort Wayne, IN"," ",126122,1 
+"18","01100","2760"," ","IN","Fort Wayne, IN"," ",130007,1 
+"18","01200","9999"," ","IN","Non-metro"," ",119185,1 
+"18","01300","9999"," ","IN","Non-metro"," ",102431,1 
+"18","01400","9999"," ","IN","Non-metro"," ",118855,1 
+"18","01500","9999"," ","IN","Non-metro"," ",111972,1 
+"18","01600","9999"," ","IN","Non-metro"," ",109257,1 
+"18","01700","3850"," ","IN","Kokomo, IN"," ",101541,1 
+"18","01800","3920"," ","IN","Lafayette, IN"," ",182821,1 
+"18","01901","3480"," ","IN","Indianapolis, IN"," ",118791,1 
+"18","01902","3480"," ","IN","Indianapolis, IN"," ",110056,1 
+"18","02001","3480"," ","IN","Indianapolis, IN"," ",129797,1 
+"18","02002","3480"," ","IN","Indianapolis, IN"," ",102397,1 
+"18","02100","5280"," ","IN","Muncie, IN"," ",118769,1 
+"18","02200","9999"," ","IN","Non-metro"," ",147006,1 
+"18","02301","3480"," ","IN","Indianapolis, IN"," ",111961,1 
+"18","02302","3480"," ","IN","Indianapolis, IN"," ",102324,1 
+"18","02303","3480"," ","IN","Indianapolis, IN"," ",102068,1 
+"18","02304","3480"," ","IN","Indianapolis, IN"," ",133461,1 
+"18","02305","3480"," ","IN","Indianapolis, IN"," ",167055,1 
+"18","02306","3480"," ","IN","Indianapolis, IN"," ",126021,1 
+"18","02307","3480"," ","IN","Indianapolis, IN"," ",117564,1 
+"18","02400","3480"," ","IN","Indianapolis, IN"," ",115209,1 
+"18","02500","3480"," ","IN","Indianapolis, IN"," ",170782,1 
+"18","02600","9999"," ","IN","Non-metro"," ",108203,1 
+"18","02700","8320"," ","IN","Terre Haute, IN"," ",149192,1 
+"18","02800","9999"," ","IN","Non-metro"," ",101196,1 
+"18","02900","1020"," ","IN","Bloomington, IN"," ",120563,1 
+"18","03000","9999"," ","IN","Non-metro"," ",127727,1 
+"18","03100","9999"," ","IN","Non-metro"," ",125458,1 
+"18","03200","1642","1640","IN","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",51732,0.435 
+"18","03200","9999"," ","IN","Non-metro"," ",67293,0.565 
+"18","03300","4520"," ","IN","Louisville, KY-IN"," ",119432,1 
+"18","03400","4520"," ","IN","Louisville, KY-IN"," ",105148,1 
+"18","03500","9999"," ","IN","Non-metro"," ",103194,1 
+"18","03600","9999"," ","IN","Non-metro"," ",124301,1 
+"18","03700","2440"," ","IN","Evansville-Henderson, IN-KY"," ",121582,1 
+"18","03800","2440"," ","IN","Evansville-Henderson, IN-KY"," ",129784,1 
+"19","00100","9999"," ","IA","Non-metro"," ",140838,1 
+"19","00200","9999"," ","IA","Non-metro"," ",133820,1 
+"19","00300","9999"," ","IA","Non-metro"," ",171790,1 
+"19","00400","8920"," ","IA","Waterloo-Cedar Falls, IA"," ",128012,1 
+"19","00500","2200"," ","IA","Dubuque, IA"," ",89143,0.454 
+"19","00500","9999"," ","IA","Non-metro"," ",107036,0.546 
+"19","00600","9999"," ","IA","Non-metro"," ",176911,1 
+"19","00700","3500"," ","IA","Iowa City, IA"," ",111006,1 
+"19","00800","1360"," ","IA","Cedar Rapids, IA"," ",191701,1 
+"19","00900","9999"," ","IA","Non-metro"," ",101165,1 
+"19","01000","9999"," ","IA","Non-metro"," ",134182,1 
+"19","01100","7720"," ","IA","Sioux City, IA-NE"," ",103877,1 
+"19","01200","5920"," ","IA","Omaha, NE-IA"," ",87704,0.48 
+"19","01200","9999"," ","IA","Non-metro"," ",94827,0.52 
+"19","01300","9999"," ","IA","Non-metro"," ",195489,1 
+"19","01400","2120"," ","IA","Des Moines, IA"," ",198682,1 
+"19","01500","2120"," ","IA","Des Moines, IA"," ",175919,1 
+"19","01600","2120"," ","IA","Des Moines, IA"," ",40750,0.277 
+"19","01600","9999"," ","IA","Non-metro"," ",106205,0.723 
+"19","01700","2120"," ","IA","Des Moines, IA"," ",40671,0.328 
+"19","01700","9999"," ","IA","Non-metro"," ",83284,0.672 
+"19","01800","9999"," ","IA","Non-metro"," ",154644,1 
+"19","01900","1960"," ","IA","Davenport-Moline-Rock Island, IA-IL"," ",158668,1 
+"20","00100","9999"," ","KS","Non-metro"," ",102988,1 
+"20","00200","9999"," ","KS","Non-metro"," ",103172,1 
+"20","00300","9999"," ","KS","Non-metro"," ",154234,1 
+"20","00400","3760"," ","KS","Kansas City, MO-KS"," ",68691,0.47 
+"20","00400","9999"," ","KS","Non-metro"," ",77547,0.53 
+"20","00500","3760"," ","KS","Kansas City, MO-KS"," ",157882,1 
+"20","00601","3760"," ","KS","Kansas City, MO-KS"," ",133721,1 
+"20","00602","3760"," ","KS","Kansas City, MO-KS"," ",105310,1 
+"20","00603","3760"," ","KS","Kansas City, MO-KS"," ",109615,1 
+"20","00604","3760"," ","KS","Kansas City, MO-KS"," ",102440,1 
+"20","00700","3760"," ","KS","Kansas City, MO-KS"," ",28351,0.221 
+"20","00700","4150"," ","KS","Lawrence, KS"," ",99962,0.779 
+"20","00800","8440"," ","KS","Topeka, KS"," ",169871,1 
+"20","00900","9999"," ","KS","Non-metro"," ",117245,1 
+"20","01000","9999"," ","KS","Non-metro"," ",105105,1 
+"20","01100","9999"," ","KS","Non-metro"," ",108581,1 
+"20","01200","9999"," ","KS","Non-metro"," ",156077,1 
+"20","01300","9040"," ","KS","Wichita, KS"," ",200110,1 
+"20","01401","9040"," ","KS","Wichita, KS"," ",109857,1 
+"20","01402","9040"," ","KS","Wichita, KS"," ",110569,1 
+"20","01403","9040"," ","KS","Wichita, KS"," ",124684,1 
+"20","01500","9999"," ","KS","Non-metro"," ",105475,1 
+"20","01600","9999"," ","KS","Non-metro"," ",136931,1 
+"21","00100","9999"," ","KY","Non-metro"," ",193495,1 
+"21","00200","9999"," ","KY","Non-metro"," ",110606,1 
+"21","00300","1660"," ","KY","Clarksville-Hopkinsville, TN-KY"," ",72265,0.689 
+"21","00300","9999"," ","KY","Non-metro"," ",32648,0.311 
+"21","00400","9999"," ","KY","Non-metro"," ",148510,1 
+"21","00500","9999"," ","KY","Non-metro"," ",106715,1 
+"21","00600","9999"," ","KY","Non-metro"," ",193452,1 
+"21","00700","9999"," ","KY","Non-metro"," ",107348,1 
+"21","00800","9999"," ","KY","Non-metro"," ",130922,1 
+"21","00900","9999"," ","KY","Non-metro"," ",120656,1 
+"21","01000","9999"," ","KY","Non-metro"," ",160532,1 
+"21","01100","4280"," ","KY","Lexington, KY"," ",104016,0.609 
+"21","01100","9999"," ","KY","Non-metro"," ",66697,0.391 
+"21","01200","4280"," ","KY","Lexington, KY"," ",62249,0.479 
+"21","01200","9999"," ","KY","Non-metro"," ",67625,0.521 
+"21","01300","9999"," ","KY","Non-metro"," ",122679,1 
+"21","01400","9999"," ","KY","Non-metro"," ",120523,1 
+"21","01500","2440"," ","KY","Evansville-Henderson, IN-KY"," ",44829,0.423 
+"21","01500","9999"," ","KY","Non-metro"," ",61065,0.577 
+"21","01600","5990"," ","KY","Owensboro, KY"," ",91545,0.902 
+"21","01600","9999"," ","KY","Non-metro"," ",9938,0.098 
+"21","01701","4520"," ","KY","Louisville, KY-IN"," ",145037,1 
+"21","01702","4520"," ","KY","Louisville, KY-IN"," ",102954,1 
+"21","01703","4520"," ","KY","Louisville, KY-IN"," ",198417,1 
+"21","01704","4520"," ","KY","Louisville, KY-IN"," ",104961,1 
+"21","01705","4520"," ","KY","Louisville, KY-IN"," ",142235,1 
+"21","01800","4520"," ","KY","Louisville, KY-IN"," ",107414,0.611 
+"21","01800","9999"," ","KY","Non-metro"," ",68288,0.389 
+"21","01901","4280"," ","KY","Lexington, KY"," ",111828,1 
+"21","01902","4280"," ","KY","Lexington, KY"," ",148684,1 
+"21","02000","4280"," ","KY","Lexington, KY"," ",52421,0.42 
+"21","02000","9999"," ","KY","Non-metro"," ",72483,0.58 
+"21","02100","9999"," ","KY","Non-metro"," ",131466,1 
+"21","02200","3400"," ","KY","Huntington-Ashland, WV-KY-OH"," ",113532,0.836 
+"21","02200","9999"," ","KY","Non-metro"," ",22317,0.164 
+"21","02300","1642","1640","KY","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",103006,1 
+"21","02400","1642","1640","KY","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",151464,1 
+"21","02500","1642","1640","KY","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",116245,0.849 
+"21","02500","9999"," ","KY","Non-metro"," ",20702,0.151 
+"22","00101","7680"," ","LA","Shreveport-Bossier City, LA"," ",137078,1 
+"22","00102","7680"," ","LA","Shreveport-Bossier City, LA"," ",115083,1 
+"22","00200","7680"," ","LA","Shreveport-Bossier City, LA"," ",140141,1 
+"22","00300","9999"," ","LA","Non-metro"," ",172767,1 
+"22","00400","5200"," ","LA","Monroe, LA"," ",147250,1 
+"22","00500","9999"," ","LA","Non-metro"," ",164106,1 
+"22","00600","9999"," ","LA","Non-metro"," ",122522,1 
+"22","00700","0220"," ","LA","Alexandria, LA"," ",126337,1 
+"22","00800","9999"," ","LA","Non-metro"," ",152383,1 
+"22","00900","3960"," ","LA","Lake Charles, LA"," ",183577,1 
+"22","01000","3880"," ","LA","Lafayette, LA"," ",110257,1 
+"22","01100","3880"," ","LA","Lafayette, LA"," ",139107,1 
+"22","01200","3880"," ","LA","Lafayette, LA"," ",87700,0.712 
+"22","01200","9999"," ","LA","Non-metro"," ",35434,0.288 
+"22","01300","9999"," ","LA","Non-metro"," ",103079,1 
+"22","01401","0760"," ","LA","Baton Rouge, LA"," ",102496,1 
+"22","01402","0760"," ","LA","Baton Rouge, LA"," ",104139,1 
+"22","01501","0760"," ","LA","Baton Rouge, LA"," ",105183,1 
+"22","01502","0760"," ","LA","Baton Rouge, LA"," ",122635,1 
+"22","01600","0760"," ","LA","Baton Rouge, LA"," ",168441,1 
+"22","01700","9999"," ","LA","Non-metro"," ",100588,1 
+"22","01801","5560"," ","LA","New Orleans, LA"," ",115878,1 
+"22","01802","5560"," ","LA","New Orleans, LA"," ",107802,1 
+"22","01803","5560"," ","LA","New Orleans, LA"," ",138125,1 
+"22","01804","5560"," ","LA","New Orleans, LA"," ",122869,1 
+"22","01901","5560"," ","LA","New Orleans, LA"," ",141746,1 
+"22","01902","5560"," ","LA","New Orleans, LA"," ",102612,1 
+"22","01903","5560"," ","LA","New Orleans, LA"," ",101690,1 
+"22","01904","5560"," ","LA","New Orleans, LA"," ",102831,1 
+"22","01905","5560"," ","LA","New Orleans, LA"," ",100573,1 
+"22","02001","5560"," ","LA","New Orleans, LA"," ",89448,0.671 
+"22","02001","9999"," ","LA","Non-metro"," ",43926,0.329 
+"22","02002","5560"," ","LA","New Orleans, LA"," ",101820,1 
+"22","02100","3350"," ","LA","Houma, LA"," ",89974,0.794 
+"22","02100","9999"," ","LA","Non-metro"," ",23388,0.206 
+"22","02200","3350"," ","LA","Houma, LA"," ",104503,1 
+"22","02300","3880"," ","LA","Lafayette, LA"," ",48583,0.476 
+"22","02300","9999"," ","LA","Non-metro"," ",53500,0.524 
+"22","02400","5560"," ","LA","New Orleans, LA"," ",112332,1 
+"22","02500","9999"," ","LA","Non-metro"," ",127073,1 
+"23","00100","1122","6450","ME","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Portsmouth-Rochester, NH-ME (P)",41375,0.23 
+"23","00100","6400"," ","ME","Portland, ME"," ",3469,0.019 
+"23","00100","9999"," ","ME","Non-metro"," ",134737,0.75 
+"23","00200","6400"," ","ME","Portland, ME"," ",103715,1 
+"23","00300","6400"," ","ME","Portland, ME"," ",136353,1 
+"23","00400","9999"," ","ME","Non-metro"," ",101535,1 
+"23","00500","9999"," ","ME","Non-metro"," ",124087,1 
+"23","00600","9999"," ","ME","Non-metro"," ",117114,1 
+"23","00700","4240"," ","ME","Lewiston-Auburn, ME"," ",90830,0.875 
+"23","00700","9999"," ","ME","Non-metro"," ",12963,0.125 
+"23","00800","9999"," ","ME","Non-metro"," ",135110,1 
+"23","00900","0730"," ","ME","Bangor, ME"," ",90864,0.548 
+"23","00900","9999"," ","ME","Non-metro"," ",74892,0.452 
+"23","01000","9999"," ","ME","Non-metro"," ",107879,1 
+"24","00100","1900"," ","MD","Cumberland, MD-WV"," ",74930,0.715 
+"24","00100","9999"," ","MD","Non-metro"," ",29846,0.285 
+"24","00200","8872","3180","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Hagerstown, MD (P)",131923,1 
+"24","00300","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",195277,1 
+"24","00400","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",150897,1 
+"24","00501","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",109970,1 
+"24","00502","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",106098,1 
+"24","00503","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",108804,1 
+"24","00504","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",109029,1 
+"24","00505","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",101132,1 
+"24","00506","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",111596,1 
+"24","00507","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",107663,1 
+"24","00601","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",118227,1 
+"24","00602","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",100363,1 
+"24","00700","6162","9160","MD","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Wilmington-Newark, DE-MD (P)",85951,0.817 
+"24","00700","9999"," ","MD","Non-metro"," ",19197,0.183 
+"24","00801","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",101737,1 
+"24","00802","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",103215,1 
+"24","00803","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",109058,1 
+"24","00804","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",136085,1 
+"24","00805","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",100631,1 
+"24","00806","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",100428,1 
+"24","00901","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",110187,1 
+"24","00902","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",137655,1 
+"24","01001","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",103090,1 
+"24","01002","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",114454,1 
+"24","01003","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",153276,1 
+"24","01004","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",167708,1 
+"24","01005","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",123676,1 
+"24","01006","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",107049,1 
+"24","01007","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",104088,1 
+"24","01101","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",103811,1 
+"24","01102","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",117042,1 
+"24","01103","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",101990,1 
+"24","01104","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",100992,1 
+"24","01105","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",138755,1 
+"24","01106","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",133467,1 
+"24","01107","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",105458,1 
+"24","01201","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",128129,1 
+"24","01202","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",107469,1 
+"24","01203","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",128396,1 
+"24","01204","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",125662,1 
+"24","01300","8872","0720","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Baltimore, MD (P)",40563,0.301 
+"24","01300","9999"," ","MD","Non-metro"," ",94258,0.699 
+"24","01400","9999"," ","MD","Non-metro"," ",155934,1 
+"24","01500","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",74563,0.464 
+"24","01500","9999"," ","MD","Non-metro"," ",86211,0.536 
+"24","01600","8872","8840","MD","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",120546,1 
+"25","00100","6320"," ","MA","Pittsfield, MA"," ",84699,0.709 
+"25","00100","9999"," ","MA","Non-metro"," ",34702,0.291 
+"25","00200","9999"," ","MA","Non-metro"," ",118963,1 
+"25","00300","1122","2600","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Fitchburg-Leominster, MA (P)",142284,1 
+"25","00400","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",103017,1 
+"25","00500","1122","4560","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lowell, MA-NH (P)",185605,1 
+"25","00600","1122","4560","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lowell, MA-NH (P)",105167,1 
+"25","00700","1122","4160","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lawrence, MA-NH (P)",147079,1 
+"25","00800","1122","4160","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lawrence, MA-NH (P)",117794,1 
+"25","00900","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",107977,1 
+"25","01000","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",111523,1 
+"25","01100","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",120286,1 
+"25","01200","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",118760,1 
+"25","01300","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",106588,1 
+"25","01400","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",108062,1 
+"25","01500","1122","9240","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Worcester, MA-CT (P)",98528,0.924 
+"25","01500","9999"," ","MA","Non-metro"," ",8115,0.076 
+"25","01600","8000"," ","MA","Springfield, MA"," ",101426,1 
+"25","01700","8000"," ","MA","Springfield, MA"," ",110485,1 
+"25","01800","8000"," ","MA","Springfield, MA"," ",114822,1 
+"25","01900","8000"," ","MA","Springfield, MA"," ",152082,1 
+"25","02000","8000"," ","MA","Springfield, MA"," ",113117,1 
+"25","02100","1122","9240","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Worcester, MA-CT (P)",118157,0.986 
+"25","02100","9999"," ","MA","Non-metro"," ",1737,0.014 
+"25","02200","1122","9240","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Worcester, MA-CT (P)",113178,1 
+"25","02300","1122","9240","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Worcester, MA-CT (P)",172648,1 
+"25","02400","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",103393,1 
+"25","02500","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",103280,1 
+"25","02600","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",104071,1 
+"25","02700","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",189150,1 
+"25","02800","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",107421,1 
+"25","02900","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",100666,1 
+"25","03000","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",112105,1 
+"25","03100","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",115515,1 
+"25","03200","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",101355,1 
+"25","03301","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",105352,1 
+"25","03302","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",129578,1 
+"25","03303","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",121523,1 
+"25","03304","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",110606,1 
+"25","03305","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",122082,1 
+"25","03400","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",140936,1 
+"25","03500","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",105669,1 
+"25","03600","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",102078,1 
+"25","03700","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",123500,1 
+"25","03800","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",114087,1 
+"25","03900","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",150643,1 
+"25","04000","1122","1200","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Brockton, MA (P)",113352,1 
+"25","04100","1122","1200","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Brockton, MA (P)",142107,1 
+"25","04200","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",108350,1 
+"25","04300","6480"," ","MA","Providence-Fall River-Warwick, RI-MA"," ",108709,1 
+"25","04400","6480"," ","MA","Providence-Fall River-Warwick, RI-MA"," ",124355,1 
+"25","04500","1122","5400","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","New Bedford, MA (P)",175198,1 
+"25","04600","1122","1120","MA","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",150478,1 
+"25","04700","0740"," ","MA","Barnstable-Yarmouth, MA"," ",18419,0.18 
+"25","04700","9999"," ","MA","Non-metro"," ",84155,0.82 
+"25","04800","0740"," ","MA","Barnstable-Yarmouth, MA"," ",144163,1 
+"26","00100","9999"," ","MI","Non-metro"," ",104115,1 
+"26","00200","9999"," ","MI","Non-metro"," ",108568,1 
+"26","00300","9999"," ","MI","Non-metro"," ",104933,1 
+"26","00400","9999"," ","MI","Non-metro"," ",142170,1 
+"26","00500","9999"," ","MI","Non-metro"," ",141199,1 
+"26","00600","9999"," ","MI","Non-metro"," ",117745,1 
+"26","00700","9999"," ","MI","Non-metro"," ",138892,1 
+"26","00800","6960"," ","MI","Saginaw-Bay City-Midland, MI"," ",193031,1 
+"26","00900","6960"," ","MI","Saginaw-Bay City-Midland, MI"," ",210039,1 
+"26","01000","9999"," ","MI","Non-metro"," ",136888,1 
+"26","01100","9999"," ","MI","Non-metro"," ",178104,1 
+"26","01200","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",170200,1 
+"26","01300","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",197800,1 
+"26","01401","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",137858,1 
+"26","01402","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",106419,1 
+"26","01403","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",132258,1 
+"26","01500","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",238314,1 
+"26","01600","9999"," ","MI","Non-metro"," ",139298,1 
+"26","01700","3000"," ","MI","Grand Rapids-Muskegon-Holland, MI"," ",105665,0.651 
+"26","01700","9999"," ","MI","Non-metro"," ",56755,0.349 
+"26","01800","4040"," ","MI","Lansing-East Lansing, MI"," ",119128,1 
+"26","01900","4040"," ","MI","Lansing-East Lansing, MI"," ",164999,1 
+"26","02000","4040"," ","MI","Lansing-East Lansing, MI"," ",163601,1 
+"26","02100","9999"," ","MI","Non-metro"," ",122784,1 
+"26","02200","2162","2640","MI","Detroit-Ann Arbor-Flint, MI (C)","Flint, MI (P)",124943,1 
+"26","02301","2162","2640","MI","Detroit-Ann Arbor-Flint, MI (C)","Flint, MI (P)",115033,1 
+"26","02302","2162","2640","MI","Detroit-Ann Arbor-Flint, MI (C)","Flint, MI (P)",196165,0.732 
+"26","02302","9999"," ","MI","Non-metro"," ",71687,0.268 
+"26","02400","0870"," ","MI","Benton Harbor, MI"," ",162453,1 
+"26","02501","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",153041,1 
+"26","02502","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",189407,1 
+"26","02503","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",163075,1 
+"26","02504","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",159595,1 
+"26","02505","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",149494,1 
+"26","02506","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",175066,1 
+"26","02507","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",100583,1 
+"26","02508","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",103895,1 
+"26","02601","3720"," ","MI","Kalamazoo-Battle Creek, MI"," ",126509,1 
+"26","02602","3720"," ","MI","Kalamazoo-Battle Creek, MI"," ",188357,1 
+"26","02700","9999"," ","MI","Non-metro"," ",159313,1 
+"26","02800","3720"," ","MI","Kalamazoo-Battle Creek, MI"," ",137985,1 
+"26","02900","3520"," ","MI","Jackson, MI"," ",158422,1 
+"26","03000","2162","0440","MI","Detroit-Ann Arbor-Flint, MI (C)","Ann Arbor, MI (P)",98890,0.68 
+"26","03000","9999"," ","MI","Non-metro"," ",46527,0.32 
+"26","03100","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",145945,1 
+"26","03200","2162","0440","MI","Detroit-Ann Arbor-Flint, MI (C)","Ann Arbor, MI (P)",114024,1 
+"26","03300","2162","0440","MI","Detroit-Ann Arbor-Flint, MI (C)","Ann Arbor, MI (P)",208871,1 
+"26","03400","2162","0440","MI","Detroit-Ann Arbor-Flint, MI (C)","Ann Arbor, MI (P)",156951,1 
+"26","03500","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",252139,1 
+"26","03600","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",100545,1 
+"26","03701","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",135164,1 
+"26","03702","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",109229,1 
+"26","03703","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",110661,1 
+"26","03704","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",123014,1 
+"26","03705","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",114180,1 
+"26","03706","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",117061,1 
+"26","03707","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",104526,1 
+"26","03708","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",137435,1 
+"26","03801","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",101676,1 
+"26","03802","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",207661,1 
+"26","03803","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",164885,1 
+"26","03804","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",114440,1 
+"26","03805","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",125599,1 
+"26","03806","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",165815,1 
+"26","03807","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",129271,1 
+"26","03900","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",124471,1 
+"26","04000","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",138247,1 
+"26","04101","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",153913,1 
+"26","04102","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",152716,1 
+"26","04103","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",105960,1 
+"26","04104","2162","2160","MI","Detroit-Ann Arbor-Flint, MI (C)","Detroit, MI (P)",112842,1 
+"27","00100","2520"," ","MN","Fargo-Moorhead, ND-MN"," ",51229,0.367 
+"27","00100","2985"," ","MN","Grand Forks, ND-MN"," ",31369,0.225 
+"27","00100","9999"," ","MN","Non-metro"," ",57103,0.409 
+"27","00200","9999"," ","MN","Non-metro"," ",106161,1 
+"27","00300","9999"," ","MN","Non-metro"," ",101723,1 
+"27","00400","2240"," ","MN","Duluth-Superior, MN-WI"," ",200528,1 
+"27","00500","9999"," ","MN","Non-metro"," ",165927,1 
+"27","00600","9999"," ","MN","Non-metro"," ",102672,1 
+"27","00700","9999"," ","MN","Non-metro"," ",113785,1 
+"27","00800","6980"," ","MN","St. Cloud, MN"," ",167392,1 
+"27","00900","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",226791,1 
+"27","01001","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",164999,1 
+"27","01002","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",133085,1 
+"27","01100","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",159703,1 
+"27","01201","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",145567,1 
+"27","01202","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",105747,1 
+"27","01203","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",104590,1 
+"27","01301","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",133155,1 
+"27","01302","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",124081,1 
+"27","01303","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",125382,1 
+"27","01401","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",105079,1 
+"27","01402","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",186407,1 
+"27","01403","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",107147,1 
+"27","01404","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",106200,1 
+"27","01405","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",108696,1 
+"27","01406","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",120053,1 
+"27","01501","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",165028,1 
+"27","01502","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",122123,1 
+"27","01601","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",101057,1 
+"27","01602","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",122827,1 
+"27","01700","5120"," ","MN","Minneapolis-St. Paul, MN-WI"," ",201130,1 
+"27","01800","9999"," ","MN","Non-metro"," ",131255,1 
+"27","01900","9999"," ","MN","Non-metro"," ",107815,1 
+"27","02000","9999"," ","MN","Non-metro"," ",105238,1 
+"27","02100","9999"," ","MN","Non-metro"," ",126218,1 
+"27","02200","3870"," ","MN","La Crosse, WI-MN"," ",19718,0.175 
+"27","02200","9999"," ","MN","Non-metro"," ",92717,0.825 
+"27","02300","6820"," ","MN","Rochester, MN"," ",124277,1 
+"27","02400","9999"," ","MN","Non-metro"," ",122598,1 
+"27","02500","9999"," ","MN","Non-metro"," ",122907,1 
+"28","00100","4920"," ","MS","Memphis, TN-AR-MS"," ",107199,1 
+"28","00200","9999"," ","MS","Non-metro"," ",102589,1 
+"28","00300","9999"," ","MS","Non-metro"," ",102047,1 
+"28","00400","9999"," ","MS","Non-metro"," ",127843,1 
+"28","00500","9999"," ","MS","Non-metro"," ",109610,1 
+"28","00600","9999"," ","MS","Non-metro"," ",103610,1 
+"28","00700","9999"," ","MS","Non-metro"," ",109194,1 
+"28","00800","9999"," ","MS","Non-metro"," ",103285,1 
+"28","00900","9999"," ","MS","Non-metro"," ",104481,1 
+"28","01000","9999"," ","MS","Non-metro"," ",112148,1 
+"28","01100","9999"," ","MS","Non-metro"," ",128407,1 
+"28","01200","9999"," ","MS","Non-metro"," ",112378,1 
+"28","01300","3560"," ","MS","Jackson, MS"," ",115327,1 
+"28","01400","3560"," ","MS","Jackson, MS"," ",183723,1 
+"28","01500","3560"," ","MS","Jackson, MS"," ",141751,1 
+"28","01600","9999"," ","MS","Non-metro"," ",108256,1 
+"28","01700","9999"," ","MS","Non-metro"," ",157760,1 
+"28","01800","9999"," ","MS","Non-metro"," ",111611,1 
+"28","01900","3285"," ","MS","Hattiesburg, MS"," ",111674,1 
+"28","02000","9999"," ","MS","Non-metro"," ",146390,1 
+"28","02100","0920"," ","MS","Biloxi-Gulfport-Pascagoula, MS"," ",42967,0.346 
+"28","02100","9999"," ","MS","Non-metro"," ",81387,0.654 
+"28","02200","0920"," ","MS","Biloxi-Gulfport-Pascagoula, MS"," ",189601,1 
+"28","02300","0920"," ","MS","Biloxi-Gulfport-Pascagoula, MS"," ",131420,1 
+"29","00100","9999"," ","MO","Non-metro"," ",109115,1 
+"29","00200","7000"," ","MO","St. Joseph, MO"," ",102490,1 
+"29","00300","9999"," ","MO","Non-metro"," ",105158,1 
+"29","00400","9999"," ","MO","Non-metro"," ",102376,1 
+"29","00500","9999"," ","MO","Non-metro"," ",179725,1 
+"29","00600","1740"," ","MO","Columbia, MO"," ",135454,1 
+"29","00700","9999"," ","MO","Non-metro"," ",130140,1 
+"29","00800","3760"," ","MO","Kansas City, MO-KS"," ",158131,1 
+"29","00901","3760"," ","MO","Kansas City, MO-KS"," ",180150,1 
+"29","00902","3760"," ","MO","Kansas City, MO-KS"," ",176938,1 
+"29","01001","3760"," ","MO","Kansas City, MO-KS"," ",118635,1 
+"29","01002","3760"," ","MO","Kansas City, MO-KS"," ",105662,1 
+"29","01003","3760"," ","MO","Kansas City, MO-KS"," ",114495,1 
+"29","01004","3760"," ","MO","Kansas City, MO-KS"," ",102753,1 
+"29","01100","3760"," ","MO","Kansas City, MO-KS"," ",113288,1 
+"29","01200","9999"," ","MO","Non-metro"," ",163803,1 
+"29","01300","9999"," ","MO","Non-metro"," ",153602,1 
+"29","01400","9999"," ","MO","Non-metro"," ",138207,1 
+"29","01500","7040"," ","MO","St. Louis, MO-IL"," ",157276,1 
+"29","01601","7040"," ","MO","St. Louis, MO-IL"," ",142422,1 
+"29","01602","7040"," ","MO","St. Louis, MO-IL"," ",141461,1 
+"29","01701","7040"," ","MO","St. Louis, MO-IL"," ",130072,1 
+"29","01702","7040"," ","MO","St. Louis, MO-IL"," ",135192,1 
+"29","01703","7040"," ","MO","St. Louis, MO-IL"," ",118417,1 
+"29","01704","7040"," ","MO","St. Louis, MO-IL"," ",108842,1 
+"29","01705","7040"," ","MO","St. Louis, MO-IL"," ",119318,1 
+"29","01706","7040"," ","MO","St. Louis, MO-IL"," ",114732,1 
+"29","01707","7040"," ","MO","St. Louis, MO-IL"," ",160962,1 
+"29","01708","7040"," ","MO","St. Louis, MO-IL"," ",128780,1 
+"29","01801","7040"," ","MO","St. Louis, MO-IL"," ",111779,1 
+"29","01802","7040"," ","MO","St. Louis, MO-IL"," ",100814,1 
+"29","01803","7040"," ","MO","St. Louis, MO-IL"," ",135596,1 
+"29","01900","7040"," ","MO","St. Louis, MO-IL"," ",198099,1 
+"29","02000","9999"," ","MO","Non-metro"," ",194834,1 
+"29","02100","9999"," ","MO","Non-metro"," ",126811,1 
+"29","02200","9999"," ","MO","Non-metro"," ",109970,1 
+"29","02300","9999"," ","MO","Non-metro"," ",119490,1 
+"29","02400","7920"," ","MO","Springfield, MO"," ",174145,1 
+"29","02500","7920"," ","MO","Springfield, MO"," ",151576,1 
+"29","02600","9999"," ","MO","Non-metro"," ",167179,1 
+"29","02700","3710"," ","MO","Joplin, MO"," ",157322,1 
+"30","00100","9999"," ","MT","Non-metro"," ",130042,1 
+"30","00200","3040"," ","MT","Great Falls, MT"," ",80357,0.551 
+"30","00200","9999"," ","MT","Non-metro"," ",65522,0.449 
+"30","00300","9999"," ","MT","Non-metro"," ",135473,1 
+"30","00400","0880"," ","MT","Billings, MT"," ",129352,1 
+"30","00500","9999"," ","MT","Non-metro"," ",101510,1 
+"30","00600","9999"," ","MT","Non-metro"," ",124183,1 
+"30","00700","5140"," ","MT","Missoula, MT"," ",95802,0.706 
+"30","00700","9999"," ","MT","Non-metro"," ",39954,0.294 
+"31","00100","9999"," ","NE","Non-metro"," ",116811,1 
+"31","00200","7720"," ","NE","Sioux City, IA-NE"," ",20253,0.107 
+"31","00200","9999"," ","NE","Non-metro"," ",169734,0.893 
+"31","00300","9999"," ","NE","Non-metro"," ",104263,1 
+"31","00400","9999"," ","NE","Non-metro"," ",107635,1 
+"31","00500","9999"," ","NE","Non-metro"," ",113556,1 
+"31","00600","9999"," ","NE","Non-metro"," ",143436,1 
+"31","00701","5920"," ","NE","Omaha, NE-IA"," ",44875,0.445 
+"31","00701","9999"," ","NE","Non-metro"," ",55990,0.555 
+"31","00702","5920"," ","NE","Omaha, NE-IA"," ",120834,1 
+"31","00801","4360"," ","NE","Lincoln, NE"," ",138439,1 
+"31","00802","4360"," ","NE","Lincoln, NE"," ",111852,1 
+"31","00901","5920"," ","NE","Omaha, NE-IA"," ",128997,1 
+"31","00902","5920"," ","NE","Omaha, NE-IA"," ",118996,1 
+"31","00903","5920"," ","NE","Omaha, NE-IA"," ",106720,1 
+"31","00904","5920"," ","NE","Omaha, NE-IA"," ",108872,1 
+"32","00100","6720"," ","NV","Reno, NV"," ",159006,1 
+"32","00200","6720"," ","NV","Reno, NV"," ",180480,1 
+"32","00300","4120"," ","NV","Las Vegas, NV-AZ"," ",32485,0.215 
+"32","00300","9999"," ","NV","Non-metro"," ",118905,0.785 
+"32","00400","9999"," ","NV","Non-metro"," ",131616,1 
+"32","00501","4120"," ","NV","Las Vegas, NV-AZ"," ",110470,1 
+"32","00502","4120"," ","NV","Las Vegas, NV-AZ"," ",102681,1 
+"32","00503","4120"," ","NV","Las Vegas, NV-AZ"," ",113878,1 
+"32","00504","4120"," ","NV","Las Vegas, NV-AZ"," ",140052,1 
+"32","00505","4120"," ","NV","Las Vegas, NV-AZ"," ",115608,1 
+"32","00506","4120"," ","NV","Las Vegas, NV-AZ"," ",109653,1 
+"32","00507","4120"," ","NV","Las Vegas, NV-AZ"," ",110870,1 
+"32","00508","4120"," ","NV","Las Vegas, NV-AZ"," ",135478,1 
+"32","00509","4120"," ","NV","Las Vegas, NV-AZ"," ",137362,1 
+"32","00510","4120"," ","NV","Las Vegas, NV-AZ"," ",121992,1 
+"32","00511","4120"," ","NV","Las Vegas, NV-AZ"," ",177721,1 
+"33","00100","9999"," ","NH","Non-metro"," ",114854,1 
+"33","00200","9999"," ","NH","Non-metro"," ",112944,1 
+"33","00300","1122","6450","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Portsmouth-Rochester, NH-ME (P)",104947,0.935 
+"33","00300","9999"," ","NH","Non-metro"," ",7286,0.065 
+"33","00400","1122","4760","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Manchester, NH (P)",16564,0.134 
+"33","00400","9999"," ","NH","Non-metro"," ",106708,0.866 
+"33","00500","9999"," ","NH","Non-metro"," ",114283,1 
+"33","00600","1122","4760","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Manchester, NH (P)",7776,0.07 
+"33","00600","1122","5350","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Nashua, NH (P)",74056,0.668 
+"33","00600","9999"," ","NH","Non-metro"," ",28993,0.262 
+"33","00700","1122","4160","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lawrence, MA-NH (P)",44730,0.415 
+"33","00700","1122","4760","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Manchester, NH (P)",63121,0.585 
+"33","00800","1122","4760","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Manchester, NH (P)",107006,1 
+"33","00900","1122","5350","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Nashua, NH (P)",116893,1 
+"33","01000","1122","4160","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lawrence, MA-NH (P)",76476,0.747 
+"33","01000","1122","4560","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lowell, MA-NH (P)",10914,0.107 
+"33","01000","1122","4760","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Manchester, NH (P)",3911,0.038 
+"33","01000","9999"," ","NH","Non-metro"," ",11019,0.108 
+"33","01100","1122","1120","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Boston, MA-NH (P)",8778,0.077 
+"33","01100","1122","4160","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Lawrence, MA-NH (P)",10151,0.09 
+"33","01100","1122","6450","NH","Boston-Worcester-Lawrence, MA-NH-ME-CT (C)","Portsmouth-Rochester, NH-ME (P)",94376,0.833 
+"34","00101","6162","0560","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Atlantic-Cape May, NJ (P)",114098,1 
+"34","00102","6162","0560","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Atlantic-Cape May, NJ (P)",138454,1 
+"34","00200","6162","0560","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Atlantic-Cape May, NJ (P)",102326,1 
+"34","00301","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",116389,1 
+"34","00302","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",114017,1 
+"34","00303","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",129090,1 
+"34","00304","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",196856,1 
+"34","00305","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",178406,1 
+"34","00306","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",149360,1 
+"34","00400","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",149222,1 
+"34","00501","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",146533,1 
+"34","00502","5602","0875","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Bergen-Passaic, NJ (P)",193294,1 
+"34","00601","5602","3640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Jersey City, NJ (P)",125006,1 
+"34","00602","5602","3640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Jersey City, NJ (P)",115049,1 
+"34","00701","5602","3640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Jersey City, NJ (P)",130598,1 
+"34","00702","5602","3640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Jersey City, NJ (P)",119166,1 
+"34","00703","5602","3640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Jersey City, NJ (P)",119156,1 
+"34","00800","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",121989,1 
+"34","00901","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",152475,1 
+"34","00902","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",166541,1 
+"34","00903","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",133594,1 
+"34","00904","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",132337,1 
+"34","00905","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",165215,1 
+"34","01001","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",143238,1 
+"34","01002","5602","5015","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Middlesex-Somerset-Hunterdon, NJ (P)",154252,1 
+"34","01101","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",115100,1 
+"34","01102","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",144257,1 
+"34","01103","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",122039,1 
+"34","01104","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",124816,1 
+"34","01105","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",109089,1 
+"34","01201","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",190598,1 
+"34","01202","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",157566,1 
+"34","01203","5602","5190","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Monmouth-Ocean, NJ (P)",162752,1 
+"34","01301","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",147927,1 
+"34","01302","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",125619,1 
+"34","01401","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",118244,1 
+"34","01402","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",119656,1 
+"34","01403","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",132916,1 
+"34","01404","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",149271,1 
+"34","01501","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",122601,1 
+"34","01502","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",122397,1 
+"34","01503","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",110850,1 
+"34","01504","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",114364,1 
+"34","01600","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",144166,1 
+"34","01700","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",102437,1 
+"34","01800","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",120568,1 
+"34","01901","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",157776,1 
+"34","01902","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",120017,1 
+"34","01903","5602","5640","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newark, NJ (P)",124180,1 
+"34","02001","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",115301,1 
+"34","02002","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",147018,1 
+"34","02003","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",161075,1 
+"34","02101","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",129479,1 
+"34","02102","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",121773,1 
+"34","02103","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",141670,1 
+"34","02104","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",116010,1 
+"34","02201","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",122722,1 
+"34","02202","6162","6160","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",196236,1 
+"34","02301","5602","8480","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Trenton, NJ (P)",201671,1 
+"34","02302","5602","8480","NJ","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Trenton, NJ (P)",149090,1 
+"34","02400","6162","8760","NJ","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Vineland-Millville-Bridgeton, NJ (P)",146438,1 
+"35","00100","9999"," ","NM","Non-metro"," ",113801,1 
+"35","00200","9999"," ","NM","Non-metro"," ",111155,1 
+"35","00300","9999"," ","NM","Non-metro"," ",114041,1 
+"35","00400","7490"," ","NM","Santa Fe, NM"," ",147635,1 
+"35","00500","0200"," ","NM","Albuquerque, NM"," ",156060,1 
+"35","00601","0200"," ","NM","Albuquerque, NM"," ",146456,1 
+"35","00602","0200"," ","NM","Albuquerque, NM"," ",100005,1 
+"35","00603","0200"," ","NM","Albuquerque, NM"," ",103234,1 
+"35","00604","0200"," ","NM","Albuquerque, NM"," ",102444,1 
+"35","00605","0200"," ","NM","Albuquerque, NM"," ",104539,1 
+"35","00700","9999"," ","NM","Non-metro"," ",100393,1 
+"35","00800","9999"," ","NM","Non-metro"," ",113752,1 
+"35","00900","4100"," ","NM","Las Cruces, NM"," ",174682,1 
+"35","01000","9999"," ","NM","Non-metro"," ",123680,1 
+"35","01100","9999"," ","NM","Non-metro"," ",107169,1 
+"36","00100","9999"," ","NY","Non-metro"," ",111931,1 
+"36","00200","9999"," ","NY","Non-metro"," ",175258,1 
+"36","00300","2975"," ","NY","Glens Falls, NY"," ",124345,1 
+"36","00401","8680"," ","NY","Utica-Rome, NY"," ",152644,1 
+"36","00402","8680"," ","NY","Utica-Rome, NY"," ",147252,1 
+"36","00500","9999"," ","NY","Non-metro"," ",138682,1 
+"36","00600","8160"," ","NY","Syracuse, NY"," ",122377,1 
+"36","00700","8160"," ","NY","Syracuse, NY"," ",147306,1 
+"36","00801","8160"," ","NY","Syracuse, NY"," ",100878,1 
+"36","00802","8160"," ","NY","Syracuse, NY"," ",124401,1 
+"36","00803","8160"," ","NY","Syracuse, NY"," ",134303,1 
+"36","00804","8160"," ","NY","Syracuse, NY"," ",102852,1 
+"36","00901","6840"," ","NY","Rochester, NY"," ",105203,1 
+"36","00902","6840"," ","NY","Rochester, NY"," ",114570,1 
+"36","01001","6840"," ","NY","Rochester, NY"," ",118511,1 
+"36","01002","6840"," ","NY","Rochester, NY"," ",123403,1 
+"36","01003","6840"," ","NY","Rochester, NY"," ",100179,1 
+"36","01004","6840"," ","NY","Rochester, NY"," ",166548,1 
+"36","01005","6840"," ","NY","Rochester, NY"," ",100694,1 
+"36","01100","6840"," ","NY","Rochester, NY"," ",100224,1 
+"36","01200","6840"," ","NY","Rochester, NY"," ",64328,0.597 
+"36","01200","9999"," ","NY","Non-metro"," ",43424,0.403 
+"36","01300","6840"," ","NY","Rochester, NY"," ",104541,1 
+"36","01401","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",182705,1 
+"36","01402","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",109943,1 
+"36","01501","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",107927,1 
+"36","01502","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",111919,1 
+"36","01601","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",112912,1 
+"36","01602","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",116510,1 
+"36","01603","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",101039,1 
+"36","01604","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",159003,1 
+"36","01605","1280"," ","NY","Buffalo-Niagara Falls, NY"," ",168153,1 
+"36","01700","9999"," ","NY","Non-metro"," ",129843,1 
+"36","01800","9999"," ","NY","Non-metro"," ",100000,1 
+"36","01900","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",31582,0.223 
+"36","01900","9999"," ","NY","Non-metro"," ",109731,0.777 
+"36","02000","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",49708,0.474 
+"36","02000","9999"," ","NY","Non-metro"," ",55073,0.526 
+"36","02100","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",146555,1 
+"36","02201","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",100247,1 
+"36","02202","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",100388,1 
+"36","02300","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",152538,1 
+"36","02401","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",104291,1 
+"36","02402","0160"," ","NY","Albany-Schenectady-Troy, NY"," ",190274,1 
+"36","02500","9999"," ","NY","Non-metro"," ",111289,1 
+"36","02601","0960"," ","NY","Binghamton, NY"," ",125897,1 
+"36","02602","0960"," ","NY","Binghamton, NY"," ",126423,1 
+"36","02700","2335"," ","NY","Elmira, NY"," ",91070,0.826 
+"36","02700","9999"," ","NY","Non-metro"," ",19224,0.174 
+"36","02800","9999"," ","NY","Non-metro"," ",123347,1 
+"36","02900","9999"," ","NY","Non-metro"," ",133882,1 
+"36","03000","3610"," ","NY","Jamestown, NY"," ",139750,1 
+"36","03101","9999"," ","NY","Non-metro"," ",102411,1 
+"36","03102","9999"," ","NY","Non-metro"," ",149304,1 
+"36","03201","5602","2281","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Dutchess County, NY (P)",121573,1 
+"36","03202","5602","2281","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Dutchess County, NY (P)",158577,1 
+"36","03301","5602","5660","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newburgh, NY-PA (P)",111905,1 
+"36","03302","5602","5660","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newburgh, NY-PA (P)",112518,1 
+"36","03303","5602","5660","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newburgh, NY-PA (P)",116944,1 
+"36","03400","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",196086,1 
+"36","03501","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",127008,1 
+"36","03502","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",140663,1 
+"36","03503","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",157664,1 
+"36","03504","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",111956,1 
+"36","03505","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",183747,1 
+"36","03506","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",102080,1 
+"36","03601","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",129793,1 
+"36","03602","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",156960,1 
+"36","03701","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",108492,1 
+"36","03702","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",136494,1 
+"36","03703","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",111661,1 
+"36","03704","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",119960,1 
+"36","03705","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",141685,1 
+"36","03706","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",129363,1 
+"36","03707","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",133890,1 
+"36","03708","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",132445,1 
+"36","03709","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",175432,1 
+"36","03710","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",143228,1 
+"36","03801","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",216234,1 
+"36","03802","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",129533,1 
+"36","03803","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",109091,1 
+"36","03804","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",115433,1 
+"36","03805","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",217063,1 
+"36","03806","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",192213,1 
+"36","03807","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",122241,1 
+"36","03808","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",143441,1 
+"36","03809","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",166379,1 
+"36","03810","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",125567,1 
+"36","03901","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",152942,1 
+"36","03902","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",128177,1 
+"36","03903","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",162609,1 
+"36","04001","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",142098,1 
+"36","04002","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",120710,1 
+"36","04003","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",121054,1 
+"36","04004","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",115106,1 
+"36","04005","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",105555,1 
+"36","04006","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",123117,1 
+"36","04007","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",116790,1 
+"36","04008","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",146857,1 
+"36","04009","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",194836,1 
+"36","04010","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",145263,1 
+"36","04011","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",112670,1 
+"36","04012","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",139269,1 
+"36","04013","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",119871,1 
+"36","04014","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",158548,1 
+"36","04015","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",166315,1 
+"36","04016","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",149351,1 
+"36","04017","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",171778,1 
+"36","04018","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",116138,1 
+"36","04101","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",192689,1 
+"36","04102","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",181370,1 
+"36","04103","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",243690,1 
+"36","04104","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",116749,1 
+"36","04105","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",196428,1 
+"36","04106","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",148712,1 
+"36","04107","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",142022,1 
+"36","04108","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",113422,1 
+"36","04109","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",130166,1 
+"36","04110","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",167201,1 
+"36","04111","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",143120,1 
+"36","04112","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",218993,1 
+"36","04113","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",128079,1 
+"36","04114","5602","5600","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","New York, NY (P)",106738,1 
+"36","04201","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",110327,1 
+"36","04202","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",114185,1 
+"36","04203","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",104032,1 
+"36","04204","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",112284,1 
+"36","04205","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",112145,1 
+"36","04206","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",140215,1 
+"36","04207","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",115021,1 
+"36","04208","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",102330,1 
+"36","04209","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",105890,1 
+"36","04210","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",104950,1 
+"36","04211","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",106500,1 
+"36","04212","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",106665,1 
+"36","04301","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",195289,1 
+"36","04302","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",115715,1 
+"36","04303","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",110166,1 
+"36","04304","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",125442,1 
+"36","04305","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",116448,1 
+"36","04306","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",110886,1 
+"36","04307","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",106612,1 
+"36","04308","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",105363,1 
+"36","04309","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",115597,1 
+"36","04310","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",106387,1 
+"36","04311","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",101878,1 
+"36","04312","5602","5380","NY","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Nassau-Suffolk, NY (P)",109586,1 
+"37","00100","9999"," ","NC","Non-metro"," ",170999,1 
+"37","00201","0480"," ","NC","Asheville, NC"," ",120871,1 
+"37","00202","0480"," ","NC","Asheville, NC"," ",105094,1 
+"37","00300","9999"," ","NC","Non-metro"," ",118507,1 
+"37","00400","9999"," ","NC","Non-metro"," ",219661,1 
+"37","00500","9999"," ","NC","Non-metro"," ",117707,1 
+"37","00600","9999"," ","NC","Non-metro"," ",147528,1 
+"37","00700","3290"," ","NC","Hickory-Morganton-Lenoir, NC"," ",141685,1 
+"37","00800","3290"," ","NC","Hickory-Morganton-Lenoir, NC"," ",200166,1 
+"37","00901","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",100238,1 
+"37","00902","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",102718,1 
+"37","00903","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",103408,1 
+"37","00904","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",100665,1 
+"37","00905","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",133799,1 
+"37","01000","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",154626,1 
+"37","01100","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",254145,1 
+"37","01200","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",130340,1 
+"37","01300","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",131063,1 
+"37","01400","1520"," ","NC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",123677,1 
+"37","01500","9999"," ","NC","Non-metro"," ",122660,1 
+"37","01601","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",104982,1 
+"37","01602","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",118909,1 
+"37","01700","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",197157,1 
+"37","01800","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",185776,1 
+"37","01900","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",120291,1 
+"37","02000","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",130454,1 
+"37","02100","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",115894,1 
+"37","02200","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",147246,1 
+"37","02300","3120"," ","NC","Greensboro--Winston Salem--High Point, NC"," ",130800,1 
+"37","02400","9999"," ","NC","Non-metro"," ",151052,1 
+"37","02500","9999"," ","NC","Non-metro"," ",110197,1 
+"37","02601","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",138841,1 
+"37","02602","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",137252,1 
+"37","02701","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",109366,1 
+"37","02702","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",123051,1 
+"37","02703","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",119336,1 
+"37","02801","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",113874,1 
+"37","02802","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",109440,1 
+"37","02900","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",167556,1 
+"37","03000","6640"," ","NC","Raleigh-Durham-Chapel Hill, NC"," ",169225,1 
+"37","03100","9999"," ","NC","Non-metro"," ",140065,1 
+"37","03200","9999"," ","NC","Non-metro"," ",109224,1 
+"37","03300","9999"," ","NC","Non-metro"," ",111424,1 
+"37","03400","6895"," ","NC","Rocky Mount, NC"," ",143026,1 
+"37","03500","9999"," ","NC","Non-metro"," ",102057,1 
+"37","03600","2560"," ","NC","Fayetteville, NC"," ",121015,1 
+"37","03700","2560"," ","NC","Fayetteville, NC"," ",181948,1 
+"37","03800","9999"," ","NC","Non-metro"," ",123339,1 
+"37","03900","9999"," ","NC","Non-metro"," ",190977,1 
+"37","04000","9200"," ","NC","Wilmington, NC"," ",233450,1 
+"37","04100","9999"," ","NC","Non-metro"," ",128109,1 
+"37","04200","3605"," ","NC","Jacksonville, NC"," ",150355,1 
+"37","04300","2980"," ","NC","Goldsboro, NC"," ",113329,1 
+"37","04400","9999"," ","NC","Non-metro"," ",152436,1 
+"37","04500","9999"," ","NC","Non-metro"," ",161200,1 
+"37","04600","3150"," ","NC","Greenville, NC"," ",133798,1 
+"37","04700","9999"," ","NC","Non-metro"," ",103258,1 
+"37","04800","5720"," ","NC","Norfolk-Virginia Beach-Newport News, VA-"," ",18190,0.121 
+"37","04800","9999"," ","NC","Non-metro"," ",131857,0.879 
+"38","00100","1010"," ","ND","Bismarck, ND"," ",25303,0.232 
+"38","00100","9999"," ","ND","Non-metro"," ",83740,0.768 
+"38","00200","1010"," ","ND","Bismarck, ND"," ",69416,0.356 
+"38","00200","9999"," ","ND","Non-metro"," ",125566,0.644 
+"38","00300","9999"," ","ND","Non-metro"," ",113504,1 
+"38","00400","2520"," ","ND","Fargo-Moorhead, ND-MN"," ",123138,1 
+"38","00500","2985"," ","ND","Grand Forks, ND-MN"," ",66109,0.651 
+"38","00500","9999"," ","ND","Non-metro"," ",35424,0.349 
+"39","00100","9999"," ","OH","Non-metro"," ",107898,1 
+"39","00201","8400"," ","OH","Toledo, OH"," ",157310,1 
+"39","00202","8400"," ","OH","Toledo, OH"," ",147274,1 
+"39","00301","8400"," ","OH","Toledo, OH"," ",101457,1 
+"39","00302","8400"," ","OH","Toledo, OH"," ",111238,1 
+"39","00303","8400"," ","OH","Toledo, OH"," ",100924,1 
+"39","00400","9999"," ","OH","Non-metro"," ",182328,1 
+"39","00501","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",141250,1 
+"39","00502","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",143414,1 
+"39","00601","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",121180,1 
+"39","00602","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",129959,1 
+"39","00603","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",104941,1 
+"39","00604","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",119017,1 
+"39","00605","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",125623,1 
+"39","00606","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",102936,1 
+"39","00607","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",137949,1 
+"39","00608","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",133914,1 
+"39","00609","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",108325,1 
+"39","00610","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",106580,1 
+"39","00611","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",101344,1 
+"39","00612","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",102210,1 
+"39","00701","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",103415,1 
+"39","00702","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",105692,1 
+"39","00703","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",109299,1 
+"39","00800","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",102728,1 
+"39","00901","9320"," ","OH","Youngstown-Warren, OH"," ",137257,1 
+"39","00902","9320"," ","OH","Youngstown-Warren, OH"," ",129429,1 
+"39","00903","9320"," ","OH","Youngstown-Warren, OH"," ",105767,1 
+"39","00904","9320"," ","OH","Youngstown-Warren, OH"," ",110218,1 
+"39","01000","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",152061,1 
+"39","01101","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",100779,1 
+"39","01102","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",118826,1 
+"39","01103","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",106220,1 
+"39","01201","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",110662,1 
+"39","01202","1692","0080","OH","Cleveland-Akron, OH (C)","Akron, OH (P)",106412,1 
+"39","01300","1692","1680","OH","Cleveland-Akron, OH (C)","Cleveland-Lorain-Elyria, OH (P)",151095,1 
+"39","01400","9999"," ","OH","Non-metro"," ",112010,1 
+"39","01500","9999"," ","OH","Non-metro"," ",152886,1 
+"39","01600","9999"," ","OH","Non-metro"," ",125602,1 
+"39","01700","4320"," ","OH","Lima, OH"," ",155084,1 
+"39","01800","9999"," ","OH","Non-metro"," ",116840,1 
+"39","01900","4800"," ","OH","Mansfield, OH"," ",46966,0.324 
+"39","01900","9999"," ","OH","Non-metro"," ",97845,0.676 
+"39","02000","4800"," ","OH","Mansfield, OH"," ",128852,1 
+"39","02100","9999"," ","OH","Non-metro"," ",111564,1 
+"39","02201","1320"," ","OH","Canton-Massillon, OH"," ",137297,1 
+"39","02202","1320"," ","OH","Canton-Massillon, OH"," ",144560,1 
+"39","02203","1320"," ","OH","Canton-Massillon, OH"," ",125077,1 
+"39","02300","9320"," ","OH","Youngstown-Warren, OH"," ",112075,1 
+"39","02400","8080"," ","OH","Steubenville-Weirton, OH-WV"," ",73894,0.513 
+"39","02400","9000"," ","OH","Wheeling, WV-OH"," ",70226,0.487 
+"39","02500","9999"," ","OH","Non-metro"," ",147562,1 
+"39","02600","9999"," ","OH","Non-metro"," ",130098,1 
+"39","02700","1840"," ","OH","Columbus, OH"," ",109989,1 
+"39","02800","1840"," ","OH","Columbus, OH"," ",92940,0.694 
+"39","02800","9999"," ","OH","Non-metro"," ",40909,0.306 
+"39","02900","9999"," ","OH","Non-metro"," ",143556,1 
+"39","03001","2000"," ","OH","Dayton-Springfield, OH"," ",102837,1 
+"39","03002","2000"," ","OH","Dayton-Springfield, OH"," ",140773,1 
+"39","03101","1840"," ","OH","Columbus, OH"," ",100985,1 
+"39","03102","1840"," ","OH","Columbus, OH"," ",132151,1 
+"39","03103","1840"," ","OH","Columbus, OH"," ",102397,1 
+"39","03104","1840"," ","OH","Columbus, OH"," ",147051,1 
+"39","03105","1840"," ","OH","Columbus, OH"," ",147537,1 
+"39","03106","1840"," ","OH","Columbus, OH"," ",111941,1 
+"39","03107","1840"," ","OH","Columbus, OH"," ",100967,1 
+"39","03108","1840"," ","OH","Columbus, OH"," ",120156,1 
+"39","03109","1840"," ","OH","Columbus, OH"," ",105793,1 
+"39","03200","1840"," ","OH","Columbus, OH"," ",145491,1 
+"39","03300","1840"," ","OH","Columbus, OH"," ",122759,1 
+"39","03400","9999"," ","OH","Non-metro"," ",118663,1 
+"39","03500","6020"," ","OH","Parkersburg-Marietta, WV-OH"," ",63251,0.589 
+"39","03500","9999"," ","OH","Non-metro"," ",44135,0.411 
+"39","03600","9999"," ","OH","Non-metro"," ",126342,1 
+"39","03700","9999"," ","OH","Non-metro"," ",101040,1 
+"39","03800","9999"," ","OH","Non-metro"," ",109851,1 
+"39","03900","2000"," ","OH","Dayton-Springfield, OH"," ",147886,1 
+"39","04000","2000"," ","OH","Dayton-Springfield, OH"," ",166179,1 
+"39","04101","2000"," ","OH","Dayton-Springfield, OH"," ",120561,1 
+"39","04102","2000"," ","OH","Dayton-Springfield, OH"," ",117937,1 
+"39","04103","2000"," ","OH","Dayton-Springfield, OH"," ",154385,1 
+"39","04200","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",158383,1 
+"39","04301","1642","3200","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Hamilton-Middletown, OH (P)",136384,1 
+"39","04302","1642","3200","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Hamilton-Middletown, OH (P)",196423,1 
+"39","04401","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",105929,1 
+"39","04402","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",153971,1 
+"39","04403","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",142498,1 
+"39","04404","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",111620,1 
+"39","04501","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",123557,1 
+"39","04502","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",104712,1 
+"39","04503","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",103016,1 
+"39","04601","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",104464,1 
+"39","04602","1642","1640","OH","Cincinnati-Hamilton, OH-KY-IN (C)","Cincinnati, OH-KY-IN (P)",115798,1 
+"39","04700","9999"," ","OH","Non-metro"," ",106525,1 
+"39","04800","3400"," ","OH","Huntington-Ashland, WV-KY-OH"," ",62319,0.494 
+"39","04800","9999"," ","OH","Non-metro"," ",63710,0.506 
+"40","00100","9999"," ","OK","Non-metro"," ",113763,1 
+"40","00200","2340"," ","OK","Enid, OK"," ",57813,0.493 
+"40","00200","9999"," ","OK","Non-metro"," ",59491,0.507 
+"40","00300","9999"," ","OK","Non-metro"," ",108895,1 
+"40","00400","4200"," ","OK","Lawton, OK"," ",114996,0.545 
+"40","00400","9999"," ","OK","Non-metro"," ",96051,0.455 
+"40","00500","9999"," ","OK","Non-metro"," ",209569,1 
+"40","00600","8560"," ","OK","Tulsa, OK"," ",106174,0.439 
+"40","00600","9999"," ","OK","Non-metro"," ",135664,0.561 
+"40","00700","9999"," ","OK","Non-metro"," ",175957,1 
+"40","00800","2720"," ","OK","Fort Smith, AR-OK"," ",38972,0.169 
+"40","00800","9999"," ","OK","Non-metro"," ",192151,0.831 
+"40","00900","9999"," ","OK","Non-metro"," ",183155,1 
+"40","01000","8560"," ","OK","Tulsa, OK"," ",128132,1 
+"40","01100","8560"," ","OK","Tulsa, OK"," ",393049,1 
+"40","01200","8560"," ","OK","Tulsa, OK"," ",175880,1 
+"40","01301","5880"," ","OK","Oklahoma City, OK"," ",274630,1 
+"40","01302","5880"," ","OK","Oklahoma City, OK"," ",231502,1 
+"40","01400","5880"," ","OK","Oklahoma City, OK"," ",227950,1 
+"40","01500","5880"," ","OK","Oklahoma City, OK"," ",160745,1 
+"40","01600","5880"," ","OK","Oklahoma City, OK"," ",99393,0.756 
+"40","01600","9999"," ","OK","Non-metro"," ",32080,0.244 
+"40","01700","5880"," ","OK","Oklahoma City, OK"," ",89126,0.662 
+"40","01700","9999"," ","OK","Non-metro"," ",45516,0.338 
+"41","00100","9999"," ","OR","Non-metro"," ",119045,1 
+"41","00200","9999"," ","OR","Non-metro"," ",106719,1 
+"41","00300","9999"," ","OR","Non-metro"," ",110421,1 
+"41","00400","9999"," ","OR","Non-metro"," ",115367,1 
+"41","00500","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",43560,0.294 
+"41","00500","9999"," ","OR","Non-metro"," ",104371,0.706 
+"41","00600","1890"," ","OR","Corvallis, OR"," ",78153,0.431 
+"41","00600","9999"," ","OR","Non-metro"," ",103069,0.569 
+"41","00701","2400"," ","OR","Eugene-Springfield, OR"," ",109575,1 
+"41","00702","2400"," ","OR","Eugene-Springfield, OR"," ",213384,1 
+"41","00800","9999"," ","OR","Non-metro"," ",159642,1 
+"41","00900","4890"," ","OR","Medford-Ashland, OR"," ",181269,1 
+"41","01000","9999"," ","OR","Non-metro"," ",100399,1 
+"41","01101","6442","7080","OR","Portland-Salem, OR-WA (C)","Salem, OR (P)",169460,1 
+"41","01102","6442","7080","OR","Portland-Salem, OR-WA (C)","Salem, OR (P)",115374,1 
+"41","01200","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",84992,0.577 
+"41","01200","6442","7080","OR","Portland-Salem, OR-WA (C)","Salem, OR (P)",62380,0.423 
+"41","01301","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",101197,1 
+"41","01302","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",106539,1 
+"41","01303","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",101076,1 
+"41","01304","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",106403,1 
+"41","01305","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",110276,1 
+"41","01306","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",118328,1 
+"41","01307","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",104245,1 
+"41","01308","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",119190,1 
+"41","01309","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",111144,1 
+"41","01310","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",109461,1 
+"41","01311","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",142121,1 
+"41","01312","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",113187,1 
+"41","01313","6442","6440","OR","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",101052,1 
+"42","00100","2360"," ","PA","Erie, PA"," ",103717,1 
+"42","00200","2360"," ","PA","Erie, PA"," ",177126,1 
+"42","00300","9999"," ","PA","Non-metro"," ",134229,1 
+"42","00400","9999"," ","PA","Non-metro"," ",105102,1 
+"42","00500","9999"," ","PA","Non-metro"," ",110690,1 
+"42","00600","5602","5660","PA","New York, Northern New Jersey, Long Island, NY-NJ-CT-PA (C)","Newburgh, NY-PA (P)",46302,0.34 
+"42","00600","9999"," ","PA","Non-metro"," ",89960,0.66 
+"42","00700","9999"," ","PA","Non-metro"," ",138687,1 
+"42","00801","7560"," ","PA","Scranton--Wilkes-Barre--Hazleton, PA"," ",111281,1 
+"42","00802","7560"," ","PA","Scranton--Wilkes-Barre--Hazleton, PA"," ",130094,1 
+"42","00901","7560"," ","PA","Scranton--Wilkes-Barre--Hazleton, PA"," ",110185,1 
+"42","00902","7560"," ","PA","Scranton--Wilkes-Barre--Hazleton, PA"," ",113408,1 
+"42","00903","7560"," ","PA","Scranton--Wilkes-Barre--Hazleton, PA"," ",159808,1 
+"42","01000","9140"," ","PA","Williamsport, PA"," ",120044,1 
+"42","01100","9999"," ","PA","Non-metro"," ",112792,1 
+"42","01200","9999"," ","PA","Non-metro"," ",186391,1 
+"42","01300","8050"," ","PA","State College, PA"," ",135758,1 
+"42","01400","9999"," ","PA","Non-metro"," ",129314,1 
+"42","01500","9999"," ","PA","Non-metro"," ",104276,1 
+"42","01600","7610"," ","PA","Sharon, PA"," ",120293,1 
+"42","01701","6280"," ","PA","Pittsburgh, PA"," ",109554,1 
+"42","01702","6280"," ","PA","Pittsburgh, PA"," ",102711,1 
+"42","01703","6280"," ","PA","Pittsburgh, PA"," ",122298,1 
+"42","01801","6280"," ","PA","Pittsburgh, PA"," ",146335,1 
+"42","01802","6280"," ","PA","Pittsburgh, PA"," ",104604,1 
+"42","01803","6280"," ","PA","Pittsburgh, PA"," ",129336,1 
+"42","01804","6280"," ","PA","Pittsburgh, PA"," ",194140,1 
+"42","01805","6280"," ","PA","Pittsburgh, PA"," ",117953,1 
+"42","01806","6280"," ","PA","Pittsburgh, PA"," ",105862,1 
+"42","01807","6280"," ","PA","Pittsburgh, PA"," ",148873,1 
+"42","01900","6280"," ","PA","Pittsburgh, PA"," ",174083,1 
+"42","02001","6280"," ","PA","Pittsburgh, PA"," ",17985,0.16 
+"42","02001","9999"," ","PA","Non-metro"," ",94643,0.84 
+"42","02002","6280"," ","PA","Pittsburgh, PA"," ",163427,1 
+"42","02101","6280"," ","PA","Pittsburgh, PA"," ",103871,1 
+"42","02102","6280"," ","PA","Pittsburgh, PA"," ",155846,1 
+"42","02103","6280"," ","PA","Pittsburgh, PA"," ",110276,1 
+"42","02201","6280"," ","PA","Pittsburgh, PA"," ",142634,1 
+"42","02202","6280"," ","PA","Pittsburgh, PA"," ",60263,0.597 
+"42","02202","9999"," ","PA","Non-metro"," ",40672,0.403 
+"42","02300","6280"," ","PA","Pittsburgh, PA"," ",148644,1 
+"42","02400","9999"," ","PA","Non-metro"," ",161997,1 
+"42","02501","3680"," ","PA","Johnstown, PA"," ",132258,1 
+"42","02502","3680"," ","PA","Johnstown, PA"," ",100363,1 
+"42","02600","0280"," ","PA","Altoona, PA"," ",129144,1 
+"42","02700","9999"," ","PA","Non-metro"," ",109831,1 
+"42","02801","9999"," ","PA","Non-metro"," ",112465,1 
+"42","02802","9999"," ","PA","Non-metro"," ",108140,1 
+"42","02900","3240"," ","PA","Harrisburg-Lebanon-Carlisle, PA"," ",120327,1 
+"42","03001","3240"," ","PA","Harrisburg-Lebanon-Carlisle, PA"," ",131562,1 
+"42","03002","3240"," ","PA","Harrisburg-Lebanon-Carlisle, PA"," ",120236,1 
+"42","03101","3240"," ","PA","Harrisburg-Lebanon-Carlisle, PA"," ",130105,1 
+"42","03102","3240"," ","PA","Harrisburg-Lebanon-Carlisle, PA"," ",127171,1 
+"42","03201","9280"," ","PA","York, PA"," ",107315,1 
+"42","03202","9280"," ","PA","York, PA"," ",167845,1 
+"42","03203","9280"," ","PA","York, PA"," ",106591,1 
+"42","03301","4000"," ","PA","Lancaster, PA"," ",163988,1 
+"42","03302","4000"," ","PA","Lancaster, PA"," ",142287,1 
+"42","03303","4000"," ","PA","Lancaster, PA"," ",164383,1 
+"42","03401","6680"," ","PA","Reading, PA"," ",196767,1 
+"42","03402","6680"," ","PA","Reading, PA"," ",176871,1 
+"42","03500","9999"," ","PA","Non-metro"," ",150336,1 
+"42","03600","0240"," ","PA","Allentown-Bethlehem-Easton, PA"," ",106632,1 
+"42","03701","0240"," ","PA","Allentown-Bethlehem-Easton, PA"," ",152669,1 
+"42","03702","0240"," ","PA","Allentown-Bethlehem-Easton, PA"," ",111591,1 
+"42","03801","0240"," ","PA","Allentown-Bethlehem-Easton, PA"," ",121515,1 
+"42","03802","0240"," ","PA","Allentown-Bethlehem-Easton, PA"," ",145551,1 
+"42","03901","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",194480,1 
+"42","03902","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",146817,1 
+"42","03903","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",132460,1 
+"42","03904","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",123878,1 
+"42","04001","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",109556,1 
+"42","04002","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",158623,1 
+"42","04003","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",155299,1 
+"42","04004","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",109747,1 
+"42","04005","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",111564,1 
+"42","04006","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",105308,1 
+"42","04101","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",158123,1 
+"42","04102","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",127076,1 
+"42","04103","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",114789,1 
+"42","04104","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",171538,1 
+"42","04105","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",167220,1 
+"42","04106","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",141720,1 
+"42","04107","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",116116,1 
+"42","04108","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",130546,1 
+"42","04109","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",110243,1 
+"42","04110","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",125879,1 
+"42","04111","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",154300,1 
+"42","04201","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",130855,1 
+"42","04202","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",162586,1 
+"42","04203","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",150563,1 
+"42","04204","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",106860,1 
+"42","04301","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",138030,1 
+"42","04302","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",164248,1 
+"42","04303","6162","6160","PA","Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD (C)","Philadelphia, PA-NJ (P)",131223,1 
+"44","00100","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",173618,1 
+"44","00200","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",156152,1 
+"44","00300","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",114797,1 
+"44","00400","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",177035,1 
+"44","00500","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",75123,0.552 
+"44","00500","9999"," ","RI","Non-metro"," ",60958,0.448 
+"44","00600","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",167090,1 
+"44","00700","5520"," ","RI","New London-Norwich, CT-RI"," ",30802,0.249 
+"44","00700","6480"," ","RI","Providence-Fall River-Warwick, RI-MA"," ",91734,0.743 
+"44","00700","9999"," ","RI","Non-metro"," ",1010,0.008 
+"45","00100","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",110757,0.626 
+"45","00100","9999"," ","SC","Non-metro"," ",66215,0.374 
+"45","00201","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",232890,1 
+"45","00202","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",146726,1 
+"45","00301","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",111486,1 
+"45","00302","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",142305,1 
+"45","00400","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",52537,0.451 
+"45","00400","9999"," ","SC","Non-metro"," ",63949,0.549 
+"45","00500","1520"," ","SC","Charlotte-Gastonia-Rock Hill, NC-SC"," ",164614,1 
+"45","00600","9999"," ","SC","Non-metro"," ",129129,1 
+"45","00700","3160"," ","SC","Greenville-Spartanburg-Anderson, SC"," ",165740,1 
+"45","00800","0600"," ","SC","Augusta-Aiken, GA-SC"," ",24595,0.168 
+"45","00800","9999"," ","SC","Non-metro"," ",121577,0.832 
+"45","00900","0600"," ","SC","Augusta-Aiken, GA-SC"," ",142552,1 
+"45","01001","1760"," ","SC","Columbia, SC"," ",103055,1 
+"45","01002","1760"," ","SC","Columbia, SC"," ",112557,1 
+"45","01100","1760"," ","SC","Columbia, SC"," ",116278,1 
+"45","01200","1760"," ","SC","Columbia, SC"," ",204801,1 
+"45","01300","9999"," ","SC","Non-metro"," ",176885,1 
+"45","01400","9999"," ","SC","Non-metro"," ",126934,1 
+"45","01500","5330"," ","SC","Myrtle Beach, SC"," ",196629,1 
+"45","01600","2655"," ","SC","Florence, SC"," ",125761,0.78 
+"45","01600","9999"," ","SC","Non-metro"," ",35466,0.22 
+"45","01700","8140"," ","SC","Sumter, SC"," ",104646,1 
+"45","01800","9999"," ","SC","Non-metro"," ",179500,1 
+"45","01900","9999"," ","SC","Non-metro"," ",141615,1 
+"45","02000","1440"," ","SC","Charleston-North Charleston, SC"," ",96413,0.716 
+"45","02000","9999"," ","SC","Non-metro"," ",38264,0.284 
+"45","02101","1440"," ","SC","Charleston-North Charleston, SC"," ",181936,1 
+"45","02102","1440"," ","SC","Charleston-North Charleston, SC"," ",128033,1 
+"45","02200","1440"," ","SC","Charleston-North Charleston, SC"," ",142651,1 
+"45","02300","9999"," ","SC","Non-metro"," ",125516,1 
+"46","00100","6660"," ","SD","Rapid City, SD"," ",88565,0.802 
+"46","00100","9999"," ","SD","Non-metro"," ",21802,0.198 
+"46","00200","9999"," ","SD","Non-metro"," ",101648,1 
+"46","00300","9999"," ","SD","Non-metro"," ",104499,1 
+"46","00400","9999"," ","SD","Non-metro"," ",108547,1 
+"46","00500","9999"," ","SD","Non-metro"," ",100749,1 
+"46","00600","7760"," ","SD","Sioux Falls, SD"," ",48437,0.461 
+"46","00600","9999"," ","SD","Non-metro"," ",56622,0.539 
+"46","00700","7760"," ","SD","Sioux Falls, SD"," ",123975,1 
+"47","00100","9999"," ","TN","Non-metro"," ",175262,1 
+"47","00200","9999"," ","TN","Non-metro"," ",115514,1 
+"47","00300","1660"," ","TN","Clarksville-Hopkinsville, TN-KY"," ",134768,1 
+"47","00400","5360"," ","TN","Nashville, TN"," ",133501,1 
+"47","00501","5360"," ","TN","Nashville, TN"," ",113172,1 
+"47","00502","5360"," ","TN","Nashville, TN"," ",106086,1 
+"47","00600","9999"," ","TN","Non-metro"," ",180038,1 
+"47","00700","9999"," ","TN","Non-metro"," ",117386,1 
+"47","00801","3660"," ","TN","Johnson City-Kingsport-Bristol, TN-VA"," ",103176,1 
+"47","00802","3660"," ","TN","Johnson City-Kingsport-Bristol, TN-VA"," ",103435,1 
+"47","00900","3660"," ","TN","Johnson City-Kingsport-Bristol, TN-VA"," ",74409,0.481 
+"47","00900","9999"," ","TN","Non-metro"," ",80408,0.519 
+"47","01000","3660"," ","TN","Johnson City-Kingsport-Bristol, TN-VA"," ",107198,1 
+"47","01100","9999"," ","TN","Non-metro"," ",112352,1 
+"47","01200","3840"," ","TN","Knoxville, TN"," ",71170,0.616 
+"47","01200","9999"," ","TN","Non-metro"," ",44294,0.384 
+"47","01301","3840"," ","TN","Knoxville, TN"," ",194578,1 
+"47","01302","3840"," ","TN","Knoxville, TN"," ",102702,1 
+"47","01400","3840"," ","TN","Knoxville, TN"," ",173890,1 
+"47","01500","3840"," ","TN","Knoxville, TN"," ",105823,1 
+"47","01600","3840"," ","TN","Knoxville, TN"," ",39086,0.301 
+"47","01600","9999"," ","TN","Non-metro"," ",90871,0.699 
+"47","01700","9999"," ","TN","Non-metro"," ",153030,1 
+"47","01800","1560"," ","TN","Chattanooga, TN-GA"," ",155554,1 
+"47","01900","1560"," ","TN","Chattanooga, TN-GA"," ",152342,1 
+"47","02000","1560"," ","TN","Chattanooga, TN-GA"," ",27776,0.264 
+"47","02000","9999"," ","TN","Non-metro"," ",77555,0.736 
+"47","02100","9999"," ","TN","Non-metro"," ",132219,1 
+"47","02201","5360"," ","TN","Nashville, TN"," ",119185,1 
+"47","02202","5360"," ","TN","Nashville, TN"," ",102188,1 
+"47","02203","5360"," ","TN","Nashville, TN"," ",131144,1 
+"47","02204","5360"," ","TN","Nashville, TN"," ",113959,1 
+"47","02205","5360"," ","TN","Nashville, TN"," ",103415,1 
+"47","02300","5360"," ","TN","Nashville, TN"," ",182023,1 
+"47","02400","5360"," ","TN","Nashville, TN"," ",126638,1 
+"47","02500","9999"," ","TN","Non-metro"," ",124364,1 
+"47","02600","9999"," ","TN","Non-metro"," ",133851,1 
+"47","02700","9999"," ","TN","Non-metro"," ",127508,1 
+"47","02800","9999"," ","TN","Non-metro"," ",135386,1 
+"47","02900","3580"," ","TN","Jackson, TN"," ",107377,1 
+"47","03000","4920"," ","TN","Memphis, TN-AR-MS"," ",80077,0.747 
+"47","03000","9999"," ","TN","Non-metro"," ",27101,0.253 
+"47","03101","4920"," ","TN","Memphis, TN-AR-MS"," ",165412,1 
+"47","03102","4920"," ","TN","Memphis, TN-AR-MS"," ",131020,1 
+"47","03103","4920"," ","TN","Memphis, TN-AR-MS"," ",127949,1 
+"47","03104","4920"," ","TN","Memphis, TN-AR-MS"," ",120682,1 
+"47","03105","4920"," ","TN","Memphis, TN-AR-MS"," ",105037,1 
+"47","03201","4920"," ","TN","Memphis, TN-AR-MS"," ",143012,1 
+"47","03202","4920"," ","TN","Memphis, TN-AR-MS"," ",104360,1 
+"48","00100","9999"," ","TX","Non-metro"," ",185004,1 
+"48","00200","0320"," ","TX","Amarillo, TX"," ",113546,1 
+"48","00300","0320"," ","TX","Amarillo, TX"," ",104312,1 
+"48","00400","9999"," ","TX","Non-metro"," ",135243,1 
+"48","00501","4600"," ","TX","Lubbock, TX"," ",109885,1 
+"48","00502","4600"," ","TX","Lubbock, TX"," ",132743,1 
+"48","00600","9080"," ","TX","Wichita Falls, TX"," ",8854,0.061 
+"48","00600","9999"," ","TX","Non-metro"," ",136894,0.939 
+"48","00700","9080"," ","TX","Wichita Falls, TX"," ",131664,1 
+"48","00800","7640"," ","TX","Sherman-Denison, TX"," ",110595,0.753 
+"48","00800","9999"," ","TX","Non-metro"," ",36363,0.247 
+"48","00900","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",76596,0.71 
+"48","00900","9999"," ","TX","Non-metro"," ",31242,0.29 
+"48","01000","9999"," ","TX","Non-metro"," ",150724,1 
+"48","01100","8360"," ","TX","Texarkana, TX-Texarkana, AR"," ",89306,0.746 
+"48","01100","9999"," ","TX","Non-metro"," ",30438,0.254 
+"48","01200","4420"," ","TX","Longview-Marshall, TX"," ",35291,0.232 
+"48","01200","9999"," ","TX","Non-metro"," ",116521,0.768 
+"48","01300","4420"," ","TX","Longview-Marshall, TX"," ",173489,1 
+"48","01400","8640"," ","TX","Tyler, TX"," ",174706,1 
+"48","01500","9999"," ","TX","Non-metro"," ",116787,1 
+"48","01600","9999"," ","TX","Non-metro"," ",116186,1 
+"48","01700","9999"," ","TX","Non-metro"," ",139333,1 
+"48","01800","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",73277,0.571 
+"48","01800","9999"," ","TX","Non-metro"," ",55109,0.429 
+"48","01900","9999"," ","TX","Non-metro"," ",135939,1 
+"48","02000","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",114393,1 
+"48","02101","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",118908,1 
+"48","02102","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",152874,1 
+"48","02103","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",112401,1 
+"48","02104","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",107492,1 
+"48","02201","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",243769,1 
+"48","02202","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",189207,1 
+"48","02301","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",102559,1 
+"48","02302","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",135393,1 
+"48","02303","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",138726,1 
+"48","02304","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",185969,1 
+"48","02305","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",132772,1 
+"48","02306","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",195592,1 
+"48","02307","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",140986,1 
+"48","02308","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",163249,1 
+"48","02309","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",114363,1 
+"48","02310","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",105698,1 
+"48","02311","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",191615,1 
+"48","02312","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",135008,1 
+"48","02313","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",105722,1 
+"48","02314","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",160667,1 
+"48","02315","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",210580,1 
+"48","02400","1922","1920","TX","Dallas-Fort Worth, TX (C)","Dallas, TX (P)",111360,1 
+"48","02501","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",122626,1 
+"48","02502","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",127119,1 
+"48","02503","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",188741,1 
+"48","02504","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",163535,1 
+"48","02505","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",155753,1 
+"48","02506","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",182037,1 
+"48","02507","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",142778,1 
+"48","02508","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",100914,1 
+"48","02509","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",142626,1 
+"48","02510","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",106529,1 
+"48","02511","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",102056,1 
+"48","02600","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",126811,1 
+"48","02700","1922","2800","TX","Dallas-Fort Worth, TX (C)","Fort Worth-Arlington, TX (P)",41100,0.287 
+"48","02700","9999"," ","TX","Non-metro"," ",102242,0.713 
+"48","02800","9999"," ","TX","Non-metro"," ",117487,1 
+"48","02900","0040"," ","TX","Abilene, TX"," ",126555,1 
+"48","03000","7200"," ","TX","San Angelo, TX"," ",104010,0.964 
+"48","03000","9999"," ","TX","Non-metro"," ",3864,0.036 
+"48","03100","9999"," ","TX","Non-metro"," ",110730,1 
+"48","03200","5800"," ","TX","Odessa-Midland, TX"," ",116009,1 
+"48","03300","5800"," ","TX","Odessa-Midland, TX"," ",121123,1 
+"48","03400","9999"," ","TX","Non-metro"," ",105339,1 
+"48","03501","2320"," ","TX","El Paso, TX"," ",100908,1 
+"48","03502","2320"," ","TX","El Paso, TX"," ",118664,1 
+"48","03503","2320"," ","TX","El Paso, TX"," ",104782,1 
+"48","03504","2320"," ","TX","El Paso, TX"," ",191546,1 
+"48","03505","2320"," ","TX","El Paso, TX"," ",163722,1 
+"48","03600","9999"," ","TX","Non-metro"," ",143846,1 
+"48","03701","3810"," ","TX","Killeen-Temple, TX"," ",105351,1 
+"48","03702","3810"," ","TX","Killeen-Temple, TX"," ",106591,1 
+"48","03703","3810"," ","TX","Killeen-Temple, TX"," ",101010,1 
+"48","03801","8800"," ","TX","Waco, TX"," ",102610,1 
+"48","03802","8800"," ","TX","Waco, TX"," ",110907,1 
+"48","03900","9999"," ","TX","Non-metro"," ",138260,1 
+"48","04000","1260"," ","TX","Bryan-College Station, TX"," ",152415,1 
+"48","04100","9999"," ","TX","Non-metro"," ",162101,1 
+"48","04200","0840"," ","TX","Beaumont-Port Arthur, TX"," ",133039,1 
+"48","04300","0840"," ","TX","Beaumont-Port Arthur, TX"," ",113866,1 
+"48","04400","0840"," ","TX","Beaumont-Port Arthur, TX"," ",138185,1 
+"48","04501","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",131142,1 
+"48","04502","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",177767,1 
+"48","04503","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",113707,1 
+"48","04601","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",127994,1 
+"48","04602","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",146966,1 
+"48","04603","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",112240,1 
+"48","04604","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",131899,1 
+"48","04605","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",121881,1 
+"48","04606","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",133599,1 
+"48","04607","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",135809,1 
+"48","04608","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",112952,1 
+"48","04609","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",123652,1 
+"48","04610","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",124409,1 
+"48","04611","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",133154,1 
+"48","04612","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",118845,1 
+"48","04613","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",132397,1 
+"48","04614","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",146951,1 
+"48","04615","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",146298,1 
+"48","04616","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",124534,1 
+"48","04617","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",147862,1 
+"48","04618","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",164847,1 
+"48","04619","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",157770,1 
+"48","04620","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",108898,1 
+"48","04621","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",161648,1 
+"48","04622","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",156588,1 
+"48","04623","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",155011,1 
+"48","04624","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",132700,1 
+"48","04625","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",141674,1 
+"48","04701","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",176264,1 
+"48","04702","3362","3360","TX","Houston-Galveston-Brazoria, TX (C)","Houston, TX (P)",178188,1 
+"48","04801","3362","1145","TX","Houston-Galveston-Brazoria, TX (C)","Brazoria, TX (P)",132703,1 
+"48","04802","3362","1145","TX","Houston-Galveston-Brazoria, TX (C)","Brazoria, TX (P)",109064,1 
+"48","04901","3362","2920","TX","Houston-Galveston-Brazoria, TX (C)","Galveston-Texas City, TX (P)",115536,1 
+"48","04902","3362","2920","TX","Houston-Galveston-Brazoria, TX (C)","Galveston-Texas City, TX (P)",134622,1 
+"48","05000","9999"," ","TX","Non-metro"," ",118745,1 
+"48","05100","0640"," ","TX","Austin-San Marcos, TX"," ",89927,0.593 
+"48","05100","9999"," ","TX","Non-metro"," ",61699,0.407 
+"48","05201","0640"," ","TX","Austin-San Marcos, TX"," ",130230,1 
+"48","05202","0640"," ","TX","Austin-San Marcos, TX"," ",119737,1 
+"48","05301","0640"," ","TX","Austin-San Marcos, TX"," ",167656,1 
+"48","05302","0640"," ","TX","Austin-San Marcos, TX"," ",159117,1 
+"48","05303","0640"," ","TX","Austin-San Marcos, TX"," ",159944,1 
+"48","05304","0640"," ","TX","Austin-San Marcos, TX"," ",158035,1 
+"48","05401","0640"," ","TX","Austin-San Marcos, TX"," ",163946,1 
+"48","05402","0640"," ","TX","Austin-San Marcos, TX"," ",101171,1 
+"48","05500","7240"," ","TX","San Antonio, TX"," ",167044,1 
+"48","05601","7240"," ","TX","San Antonio, TX"," ",102340,1 
+"48","05602","7240"," ","TX","San Antonio, TX"," ",113367,1 
+"48","05603","7240"," ","TX","San Antonio, TX"," ",105949,1 
+"48","05604","7240"," ","TX","San Antonio, TX"," ",121247,1 
+"48","05605","7240"," ","TX","San Antonio, TX"," ",154732,1 
+"48","05606","7240"," ","TX","San Antonio, TX"," ",172439,1 
+"48","05607","7240"," ","TX","San Antonio, TX"," ",171968,1 
+"48","05608","7240"," ","TX","San Antonio, TX"," ",108322,1 
+"48","05609","7240"," ","TX","San Antonio, TX"," ",128363,1 
+"48","05610","7240"," ","TX","San Antonio, TX"," ",101012,1 
+"48","05611","7240"," ","TX","San Antonio, TX"," ",113192,1 
+"48","05700","7240"," ","TX","San Antonio, TX"," ",32408,0.245 
+"48","05700","9999"," ","TX","Non-metro"," ",99643,0.755 
+"48","05800","9999"," ","TX","Non-metro"," ",161411,1 
+"48","05900","9999"," ","TX","Non-metro"," ",154381,1 
+"48","06000","4080"," ","TX","Laredo, TX"," ",193117,1 
+"48","06100","9999"," ","TX","Non-metro"," ",128290,1 
+"48","06200","8750"," ","TX","Victoria, TX"," ",84088,0.706 
+"48","06200","9999"," ","TX","Non-metro"," ",35038,0.294 
+"48","06301","1880"," ","TX","Corpus Christi, TX"," ",121832,1 
+"48","06302","1880"," ","TX","Corpus Christi, TX"," ",155622,1 
+"48","06400","1880"," ","TX","Corpus Christi, TX"," ",103329,1 
+"48","06500","9999"," ","TX","Non-metro"," ",131081,1 
+"48","06600","4880"," ","TX","McAllen-Edinburg-Mission, TX"," ",106414,1 
+"48","06701","4880"," ","TX","McAllen-Edinburg-Mission, TX"," ",115186,1 
+"48","06702","4880"," ","TX","McAllen-Edinburg-Mission, TX"," ",100637,1 
+"48","06703","4880"," ","TX","McAllen-Edinburg-Mission, TX"," ",122312,1 
+"48","06704","4880"," ","TX","McAllen-Edinburg-Mission, TX"," ",124914,1 
+"48","06800","1240"," ","TX","Brownsville-Harlingen-San Benito, TX"," ",139722,1 
+"48","06900","1240"," ","TX","Brownsville-Harlingen-San Benito, TX"," ",195505,1 
+"49","00100","9999"," ","UT","Non-metro"," ",176832,1 
+"49","00200","7160"," ","UT","Salt Lake City-Ogden, UT"," ",196533,1 
+"49","00301","7160"," ","UT","Salt Lake City-Ogden, UT"," ",132800,1 
+"49","00302","7160"," ","UT","Salt Lake City-Ogden, UT"," ",106194,1 
+"49","00400","9999"," ","UT","Non-metro"," ",146776,1 
+"49","00501","7160"," ","UT","Salt Lake City-Ogden, UT"," ",181105,1 
+"49","00502","7160"," ","UT","Salt Lake City-Ogden, UT"," ",102784,1 
+"49","00503","7160"," ","UT","Salt Lake City-Ogden, UT"," ",129505,1 
+"49","00504","7160"," ","UT","Salt Lake City-Ogden, UT"," ",146427,1 
+"49","00505","7160"," ","UT","Salt Lake City-Ogden, UT"," ",113043,1 
+"49","00506","7160"," ","UT","Salt Lake City-Ogden, UT"," ",101835,1 
+"49","00507","7160"," ","UT","Salt Lake City-Ogden, UT"," ",123688,1 
+"49","00601","6520"," ","UT","Provo-Orem, UT"," ",137652,1 
+"49","00602","6520"," ","UT","Provo-Orem, UT"," ",105387,1 
+"49","00603","6520"," ","UT","Provo-Orem, UT"," ",125497,1 
+"49","00700","2620"," ","UT","Flagstaff, AZ-UT"," ",6046,0.029 
+"49","00700","9999"," ","UT","Non-metro"," ",201065,0.971 
+"50","00100","1305"," ","VT","Burlington, VT"," ",169391,0.852 
+"50","00100","9999"," ","VT","Non-metro"," ",29498,0.148 
+"50","00200","9999"," ","VT","Non-metro"," ",143710,1 
+"50","00300","9999"," ","VT","Non-metro"," ",129860,1 
+"50","00400","9999"," ","VT","Non-metro"," ",136368,1 
+"51","00100","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",189453,1 
+"51","00200","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",128283,1 
+"51","00301","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",208328,1 
+"51","00302","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",174963,1 
+"51","00303","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",202647,1 
+"51","00304","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",150794,1 
+"51","00305","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",264892,1 
+"51","00400","9999"," ","VA","Non-metro"," ",117869,1 
+"51","00501","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",141229,1 
+"51","00502","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",185009,1 
+"51","00600","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",268974,1 
+"51","00700","9999"," ","VA","Non-metro"," ",202381,1 
+"51","00800","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",109249,1 
+"51","00900","8872","8840","VA","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",143936,1 
+"51","01000","1540"," ","VA","Charlottesville, VA"," ",159576,1 
+"51","01100","9999"," ","VA","Non-metro"," ",193650,1 
+"51","01200","6760"," ","VA","Richmond-Petersburg, VA"," ",197790,1 
+"51","01300","6760"," ","VA","Richmond-Petersburg, VA"," ",262300,1 
+"51","01400","6760"," ","VA","Richmond-Petersburg, VA"," ",259903,1 
+"51","01500","6760"," ","VA","Richmond-Petersburg, VA"," ",125560,1 
+"51","01600","6800"," ","VA","Roanoke, VA"," ",119658,1 
+"51","01700","6800"," ","VA","Roanoke, VA"," ",116274,1 
+"51","01800","4640"," ","VA","Lynchburg, VA"," ",214911,1 
+"51","01900","9999"," ","VA","Non-metro"," ",162569,1 
+"51","02000","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",180150,1 
+"51","02100","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",146437,1 
+"51","02200","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",171950,1 
+"51","02300","6760"," ","VA","Richmond-Petersburg, VA"," ",150959,1 
+"51","02400","9999"," ","VA","Non-metro"," ",165146,1 
+"51","02500","9999"," ","VA","Non-metro"," ",114319,1 
+"51","02600","3660"," ","VA","Johnson City-Kingsport-Bristol, TN-VA"," ",91873,0.735 
+"51","02600","9999"," ","VA","Non-metro"," ",33081,0.265 
+"51","02700","9999"," ","VA","Non-metro"," ",160045,1 
+"51","02801","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",119978,1 
+"51","02802","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",154485,1 
+"51","02803","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",150794,1 
+"51","02900","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",234403,1 
+"51","03000","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",199184,1 
+"51","03100","5720"," ","VA","Norfolk-Virginia Beach-Newport News, VA-"," ",193970,1 
+"51","03200","9999"," ","VA","Non-metro"," ",126331,1 
+"51","03300","9999"," ","VA","Non-metro"," ",140039,1 
+"51","03400","9999"," ","VA","Non-metro"," ",135017,1 
+"51","03500","1950"," ","VA","Danville, VA"," ",110156,1 
+"53","00100","0860"," ","WA","Bellingham, WA"," ",166814,1 
+"53","00200","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",71558,0.379 
+"53","00200","9999"," ","WA","Non-metro"," ",117056,0.621 
+"53","00300","9999"," ","WA","Non-metro"," ",172145,1 
+"53","00400","9999"," ","WA","Non-metro"," ",160368,1 
+"53","00500","7840"," ","WA","Spokane, WA"," ",195629,1 
+"53","00601","7840"," ","WA","Spokane, WA"," ",107454,1 
+"53","00602","7840"," ","WA","Spokane, WA"," ",114856,1 
+"53","00700","9999"," ","WA","Non-metro"," ",122932,1 
+"53","00800","6740"," ","WA","Richland-Kennewick-Pasco, WA"," ",191822,1 
+"53","00901","9260"," ","WA","Yakima, WA"," ",100341,1 
+"53","00902","9260"," ","WA","Yakima, WA"," ",122240,1 
+"53","01001","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",135486,1 
+"53","01002","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",153493,1 
+"53","01003","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",101485,1 
+"53","01004","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",102381,1 
+"53","01005","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",113179,1 
+"53","01100","9999"," ","WA","Non-metro"," ",125805,1 
+"53","01201","7602","5910","WA","Seattle-Tacoma-Bremerton, WA (C)","Olympia, WA (P)",100178,1 
+"53","01202","7602","5910","WA","Seattle-Tacoma-Bremerton, WA (C)","Olympia, WA (P)",107177,1 
+"53","01300","7602","8200","WA","Seattle-Tacoma-Bremerton, WA (C)","Tacoma, WA (P)",193556,1 
+"53","01401","7602","8200","WA","Seattle-Tacoma-Bremerton, WA (C)","Tacoma, WA (P)",144671,1 
+"53","01402","7602","8200","WA","Seattle-Tacoma-Bremerton, WA (C)","Tacoma, WA (P)",150964,1 
+"53","01403","7602","8200","WA","Seattle-Tacoma-Bremerton, WA (C)","Tacoma, WA (P)",102772,1 
+"53","01404","7602","8200","WA","Seattle-Tacoma-Bremerton, WA (C)","Tacoma, WA (P)",108857,1 
+"53","01500","9999"," ","WA","Non-metro"," ",156778,1 
+"53","01600","9999"," ","WA","Non-metro"," ",139883,1 
+"53","01701","7602","1150","WA","Seattle-Tacoma-Bremerton, WA (C)","Bremerton, WA (P)",113492,1 
+"53","01702","7602","1150","WA","Seattle-Tacoma-Bremerton, WA (C)","Bremerton, WA (P)",118477,1 
+"53","01801","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",126999,1 
+"53","01802","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",109697,1 
+"53","01803","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",103992,1 
+"53","01804","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",102596,1 
+"53","01805","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",120090,1 
+"53","01900","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",109569,1 
+"53","02001","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",120405,1 
+"53","02002","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",134454,1 
+"53","02003","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",105794,1 
+"53","02004","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",112586,1 
+"53","02005","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",118696,1 
+"53","02006","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",114225,1 
+"53","02007","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",118352,1 
+"53","02008","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",117551,1 
+"53","02009","7602","7600","WA","Seattle-Tacoma-Bremerton, WA (C)","Seattle-Bellevue-Everett, WA (P)",122028,1 
+"53","02101","6442","6440","WA","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",100605,1 
+"53","02102","6442","6440","WA","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",101073,1 
+"53","02200","6442","6440","WA","Portland-Salem, OR-WA (C)","Portland-Vancouver, OR-WA (P)",143560,1 
+"54","00100","8080"," ","WV","Steubenville-Weirton, OH-WV"," ",58114,0.366 
+"54","00100","9000"," ","WV","Wheeling, WV-OH"," ",82946,0.522 
+"54","00100","9999"," ","WV","Non-metro"," ",17693,0.111 
+"54","00200","9999"," ","WV","Non-metro"," ",148742,1 
+"54","00300","9999"," ","WV","Non-metro"," ",111200,1 
+"54","00400","1900"," ","WV","Cumberland, MD-WV"," ",27078,0.127 
+"54","00400","8872","8840","WV","Washington-Baltimore, DC-MD-VA-WV (C)","Washington, DC-MD-VA-WV (P)",118095,0.556 
+"54","00400","9999"," ","WV","Non-metro"," ",67310,0.317 
+"54","00500","9999"," ","WV","Non-metro"," ",113325,1 
+"54","00600","6020"," ","WV","Parkersburg-Marietta, WV-OH"," ",87986,0.511 
+"54","00600","9999"," ","WV","Non-metro"," ",84350,0.489 
+"54","00700","3400"," ","WV","Huntington-Ashland, WV-KY-OH"," ",96784,0.789 
+"54","00700","9999"," ","WV","Non-metro"," ",25957,0.211 
+"54","00800","1480"," ","WV","Charleston, WV"," ",251662,0.875 
+"54","00800","9999"," ","WV","Non-metro"," ",35865,0.125 
+"54","00900","9999"," ","WV","Non-metro"," ",127444,1 
+"54","01000","9999"," ","WV","Non-metro"," ",106802,1 
+"54","01100","9999"," ","WV","Non-metro"," ",116017,1 
+"54","01200","3400"," ","WV","Huntington-Ashland, WV-KY-OH"," ",42903,0.328 
+"54","01200","9999"," ","WV","Non-metro"," ",88071,0.672 
+"55","00100","2240"," ","WI","Duluth-Superior, MN-WI"," ",43287,0.239 
+"55","00100","9999"," ","WI","Non-metro"," ",137495,0.761 
+"55","00200","3080"," ","WI","Green Bay, WI"," ",102313,1 
+"55","00300","3080"," ","WI","Green Bay, WI"," ",124465,1 
+"55","00400","5120"," ","WI","Minneapolis-St. Paul, MN-WI"," ",63155,0.283 
+"55","00400","9999"," ","WI","Non-metro"," ",159697,0.717 
+"55","00500","2290"," ","WI","Eau Claire, WI"," ",148337,1 
+"55","00600","9999"," ","WI","Non-metro"," ",303910,1 
+"55","00700","5120"," ","WI","Minneapolis-St. Paul, MN-WI"," ",36804,0.194 
+"55","00700","9999"," ","WI","Non-metro"," ",153325,0.806 
+"55","00800","9999"," ","WI","Non-metro"," ",140085,1 
+"55","00900","3870"," ","WI","La Crosse, WI-MN"," ",107120,1 
+"55","01000","9999"," ","WI","Non-metro"," ",193590,1 
+"55","01100","4720"," ","WI","Madison, WI"," ",208054,1 
+"55","01200","4720"," ","WI","Madison, WI"," ",218472,1 
+"55","01300","9999"," ","WI","Non-metro"," ",215141,1 
+"55","01400","9999"," ","WI","Non-metro"," ",252344,1 
+"55","01500","0460"," ","WI","Appleton-Oshkosh-Neenah, WI"," ",358365,1 
+"55","01600","8940"," ","WI","Wausau, WI"," ",125834,1 
+"55","01700","9999"," ","WI","Non-metro"," ",167780,1 
+"55","01800","1602","3800","WI","Chicago-Gary-Kenosha, IL-IN-WI (C)","Kenosha, WI (P)",149577,1 
+"55","01900","5082","6600","WI","Milwaukee-Racine, WI (C)","Racine, WI (P)",188831,1 
+"55","02001","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",162402,1 
+"55","02002","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",145708,1 
+"55","02003","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",134585,1 
+"55","02004","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",154279,1 
+"55","02101","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",113792,1 
+"55","02102","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",229398,1 
+"55","02201","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",148131,1 
+"55","02202","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",100698,1 
+"55","02203","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",111938,1 
+"55","02300","5082","5080","WI","Milwaukee-Racine, WI (C)","Milwaukee-Waukesha, WI (P)",199810,1 
+"55","02400","3620"," ","WI","Janesville-Beloit, WI"," ",152307,1 
+"55","02500","7620"," ","WI","Sheboygan, WI"," ",112646,1 
+"56","00100","9999"," ","WY","Non-metro"," ",121885,1 
+"56","00200","1350"," ","WY","Casper, WY"," ",66533,0.564 
+"56","00200","9999"," ","WY","Non-metro"," ",51443,0.436 
+"56","00300","9999"," ","WY","Non-metro"," ",140300,1 
+"56","00400","1580"," ","WY","Cheyenne, WY"," ",81607,0.718 
+"56","00400","9999"," ","WY","Non-metro"," ",32014,0.282 

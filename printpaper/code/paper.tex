@@ -1,0 +1,163 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{url}
+\usepackage{wrapfig}
+\usepackage[margin=1in]{geometry}
+\usepackage{framed}
+\usepackage{placeins}
+\usepackage{bbm}
+\usepackage{enumerate}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage[setpagesize=false,breaklinks=true]{hyperref}
+\hypersetup{
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links
+    citecolor=black,        % color of links to bibliography
+    urlcolor=blue           % color of external links
+}
+
+\begin{document}
+
+\section{The Comparative Advantage of Cities}
+
+\begin{table} \caption{Skill groups by educational attainment}
+\resizebox{\textwidth}{!}{\input{../input/table1.tex}}
+\label{tab:shares}
+\end{table}
+
+\begin{table} \caption{Sectoral skill intensities}
+\resizebox{\textwidth}{!}{\input{../input/table2.tex}}
+\label{tab:skillintensities}
+\end{table}
+
+% 3 skill groups
+\begin{table} \caption{Population elasticities of three skill groups}
+\input{../input/table3_clean.tex}
+\label{tab:edu3_popelast}
+\end{table}
+
+\begin{table} \caption{Pairwise comparisons of three skill groups}
+	\resizebox{\textwidth}{!}{\input{../input/table4.tex}}
+\label{tab:edu3_pairwise}
+\end{table}
+
+% 9 skill groups
+\begin{table} \caption{Population elasticities of nine skill groups}
+\input{../input/table5_clean.tex}
+\label{tab:edu9_popelast}
+\end{table}
+\begin{table} \caption{Pairwise comparisons of nine skill groups}
+	\resizebox{\textwidth}{!}{\input{../input/table6.tex}}
+\label{tab:edu9_pairwise}
+\end{table}
+
+%% Industries and occupations
+% occ
+\begin{table} \caption{Pairwise comparisons of occupations}
+	\resizebox{\textwidth}{!}{\input{../input/table7.tex}}
+\label{tab:occ_pairwise}
+\end{table}
+
+\begin{figure} \caption{Occupations' population elasticities and skill intensities} \begin{center}
+\includegraphics{../input/figure4_occupations.pdf}
+\label{fig:occ_popelast}
+\end{center}\end{figure}
+
+% ind
+\begin{table} \caption{Pairwise comparisons of industries}
+	\resizebox{\textwidth}{!}{\input{../input/table8.tex}}
+\label{tab:ind_pairwise}
+\end{table}
+
+\begin{figure} \caption{Industries' population elasticities and skill intensities} \begin{center}
+\includegraphics{../input/figure5_naics2.pdf}
+\label{fig:ind_popelast}
+\end{center}\end{figure}
+
+
+
+\pagebreak
+
+\subsection{Appendices}
+
+\begin{figure} \caption{Edu} \begin{center}
+\includegraphics{../input/figureE1A_popdiff.pdf}
+\label{fig:edu}
+\end{center}\end{figure}
+
+\begin{figure} \caption{Occ} \begin{center}
+\includegraphics{../input/figureE1B_skilldiff_occ.pdf}
+\label{fig:occ}
+\end{center}\end{figure}
+
+\begin{figure} \caption{Ind} \begin{center}
+\includegraphics{../input/figureE1C_skilldiff_naics2.pdf}
+\label{fig:naics}
+\end{center}\end{figure}
+
+
+\begin{table} \caption{Population elasticities of seven skill groups, 1980}
+\input{../input/tableE1_withshares.tex}
+\label{tab:E1}
+\end{table}
+
+\begin{table} \caption{Occupational employment population elasticities}
+\resizebox{\textwidth}{!}{
+\input{../input/tableE2_occupations_clean.tex}
+}
+\label{tab:E2}
+\end{table}
+
+\begin{table} \caption{Industrial employment population elasticities}
+\resizebox{\textwidth}{!}{
+\input{../input/tableE3_naics2_clean.tex}
+}
+\label{tab:E3}
+\end{table}
+
+\begin{table} \caption{Skill groups by educational attainment}
+\resizebox{\textwidth}{!}{\input{../input/tableE4_appendix.tex}}
+\label{tab:E4}
+\end{table}
+
+\begin{table} \caption{Population elasticities of three skill groups}
+\input{../input/tableE5_appendix.tex}
+\label{tab:E5}
+\end{table}
+
+\begin{table} \caption{Population elasticities of nine skill groups}
+\input{../input/tableE6_appendix.tex}
+\label{tab:E6}
+\end{table}
+
+\begin{table} \caption{Population elasticities of wage ventiles}
+\input{../input/wagebins_table_clean.tex}
+\label{tab:E7}
+\end{table}
+
+\begin{table} \caption{Pairwise comparisons of three skill groups}
+	\resizebox{\textwidth}{!}{\input{../input/table4_appendix.tex}}
+\label{tab:E8}
+\end{table}
+
+\begin{table} \caption{Pairwise comparisons of nine skill groups}
+	\resizebox{\textwidth}{!}{\input{../input/table6_appendix.tex}}
+\label{tab:E9}
+\end{table}
+
+\begin{table} \caption{Pairwise comparisons of occupations}
+	\resizebox{\textwidth}{!}{\input{../input/table7_appendix.tex}}
+\label{tab:E10}
+\end{table}
+
+\begin{table} \caption{Pairwise comparisons of industries}
+	\resizebox{\textwidth}{!}{\input{../input/table8_appendix.tex}}
+\label{tab:E11}
+\end{table}
+
+\end{document}
