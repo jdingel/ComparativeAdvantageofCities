@@ -1,4 +1,4 @@
-This repository contains the data and code underlying the paper "[The Comparative Advantage of Cities](http://faculty.chicagobooth.edu/jonathan.dingel/research/)" by Donald Davis and Jonathan Dingel.
+This repository contains the data and code underlying the paper "[The Comparative Advantage of Cities](http://faculty.chicagobooth.edu/jonathan.dingel/)" by Donald Davis and Jonathan Dingel.
 This replication package was prepared by Jonathan Dingel, with assistance from Dylan Clarke, Luis Costa, Antonio Miscio, and Shirley Yarin.
 
 ## Code organization
