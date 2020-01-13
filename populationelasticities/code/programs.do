@@ -218,8 +218,8 @@ end
 
 
 
-cap program drop popelasticites_occupations
-program define popelasticites_occupations
+cap program drop popelasticities_occupations
+program define popelasticities_occupations
 syntax, figure(integer) tabsaveas(string) figsaveas(string)
 
 use "../input/OCCSOC2000.dta", clear

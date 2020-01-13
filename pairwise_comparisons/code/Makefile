@@ -58,12 +58,12 @@ run.sbatch:
 	if [ -e ../../commoncode/code/run.sbatch ] ; then ln -s ../../commoncode/code/run.sbatch . ; else exit 1; fi
 
 $(OUTPUTS): $(INPUTS) calls.do programs.do run.sbatch | $(FOLDERS)
-	if command -v sbatch > /dev/null ; then sbatch -W --export=dofile='calls.do' --partition=covert-dingel --mem-per-cpu=20g --job-name=pairwise_comparisons run.sbatch; else stata-se -e calls.do ; fi
+	if command -v sbatch > /dev/null ; then sbatch -W --export=dofile='calls.do' --mem-per-cpu=20g --job-name=pairwise_comparisons run.sbatch; else stata-se -e calls.do ; fi
 	sed -i 's/\&\&\(.*\)\&\(.*\)\&\(.*\)\&\(.*\)\\\\/\&\&\\footnotesize{\1}\&\\footnotesize{\2}\&\\footnotesize{\3}\&\\footnotesize{\4}\\\\/g' ../output/table4_appendix.tex
 	sed -i 's/\&\&\(.*\)\&\(.*\)\&\(.*\)\&\(.*\)\&\(.*\)\&\(.*\)\\\\/\&\&\\footnotesize{\1}\&\\footnotesize{\2}\&\\footnotesize{\3}\&\\footnotesize{\4}\&\\footnotesize{\5}\&\\footnotesize{\6}\\\\/g' ../output/table6_appendix.tex
 
 $(TABLES): $(OUTPUTS) tables.do run.sbatch
-	if command -v sbatch > /dev/null ; then sbatch -W --export=dofile='tables.do' --partition=covert-dingel --mem-per-cpu=2g --job-name=tables run.sbatch; else stata-se -e tables.do ; fi
+	if command -v sbatch > /dev/null ; then sbatch -W --export=dofile='tables.do' --mem-per-cpu=2g --job-name=tables run.sbatch; else stata-se -e tables.do ; fi
 	sed -i 's/\&\&\(.*\)&\(.*\)\\\\/\&\&\\footnotesize{(\1)}\&\\footnotesize{(\2)}\\\\/g' ../output/table4.tex
 	sed -i 's/\&\&\(.*\)&\(.*\)\\\\/\&\&\\footnotesize{(\1)}\&\\footnotesize{(\2)}\\\\/g' ../output/table6.tex
 	sed -i 's/\&\&\(.*\)\\\\/\&\&\\footnotesize{(\1)}\\\\/g' ../output/table7.tex
